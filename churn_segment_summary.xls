@@ -1,0 +1,13 @@
+Contract,payment_method,total_customers,churn_rate,avg_churn_probability
+Month-to-month,Bank transfer (automatic),113,0.389,0.514
+Month-to-month,Credit card (automatic),118,0.347,0.498
+Month-to-month,Electronic check,366,0.516,0.678
+Month-to-month,Mailed check,176,0.313,0.477
+One year,Bank transfer (automatic),81,0.123,0.175
+One year,Credit card (automatic),79,0.101,0.173
+One year,Electronic check,69,0.203,0.327
+One year,Mailed check,71,0.056,0.142
+Two year,Bank transfer (automatic),106,0.028,0.062
+Two year,Credit card (automatic),112,0.018,0.062
+Two year,Electronic check,39,0.077,0.161
+Two year,Mailed check,79,0.013,0.045

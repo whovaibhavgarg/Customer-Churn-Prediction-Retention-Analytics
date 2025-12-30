@@ -1,0 +1,1410 @@
+City,tenure_months,Contract,payment_method,avg_monthly_revenue,early_tenure,is_month_to_month,manual_payment,churn_probability,churn_prediction,actual_churn,customer_id
+Boulder Creek,2,Month-to-month,Electronic check,84.9,1,1,1,0.9991336330902316,1,1,1
+Tipton,4,Month-to-month,Electronic check,90.55,1,1,1,0.9987422732970963,1,1,2
+Riverbank,11,Month-to-month,Bank transfer (automatic),90.69545454545454,0,1,0,0.9982238520625074,1,1,3
+Eldridge,1,Month-to-month,Bank transfer (automatic),73.5,1,1,0,0.9971742581075504,1,1,4
+Piru,1,Month-to-month,Electronic check,74.5,1,1,1,0.9967532712159527,1,1,5
+La Puente,1,Month-to-month,Electronic check,95.45,1,1,1,0.9966686318076816,1,1,6
+Bodfish,1,Month-to-month,Electronic check,89.55,1,1,1,0.9965792743759674,1,1,7
+Twain,1,Month-to-month,Mailed check,25.05,1,1,1,0.9962928404254382,1,1,8
+Maricopa,13,Month-to-month,Electronic check,95.73076923076923,0,1,1,0.9962567306919581,1,1,9
+Rio Dell,2,Month-to-month,Electronic check,83.15,1,1,1,0.995352943911297,1,1,10
+Fellows,3,Month-to-month,Electronic check,73.53333333333333,1,1,1,0.9951257435362085,1,1,11
+Smith River,10,Month-to-month,Mailed check,29.845,0,1,1,0.9949852899214761,1,1,12
+Bodfish,12,Month-to-month,Electronic check,104.49166666666667,0,1,1,0.9929135228171727,1,1,13
+Panorama City,3,Month-to-month,Electronic check,63.78333333333333,1,1,1,0.9924726863593002,1,1,14
+Marina,1,Month-to-month,Bank transfer (automatic),69.5,1,1,0,0.9908746755325275,1,1,15
+Rio Dell,1,Month-to-month,Electronic check,25.2,1,1,1,0.9906081322083277,1,1,16
+La Puente,3,Month-to-month,Electronic check,44.06666666666666,1,1,1,0.9878529862881796,1,1,17
+Apple Valley,4,Month-to-month,Mailed check,76.65,1,1,1,0.9876043788540789,1,1,18
+Wheatland,9,Month-to-month,Credit card (automatic),81.38888888888889,0,1,0,0.9873727593173597,1,1,19
+Old Station,3,Month-to-month,Electronic check,19.633333333333333,1,1,1,0.9865518455563128,1,1,20
+Wrightwood,48,Month-to-month,Bank transfer (automatic),44.6875,0,1,0,0.9856479905222266,1,1,21
+Exeter,29,Month-to-month,Electronic check,45.9448275862069,0,1,1,0.9854614638338527,1,0,22
+Jackson,1,Month-to-month,Bank transfer (automatic),49.95,1,1,0,0.985031441063649,1,1,23
+Wheatland,1,Month-to-month,Mailed check,44.65,1,1,1,0.9844541062067167,1,1,24
+Homeland,2,Month-to-month,Electronic check,83.75,1,1,1,0.9836446663488676,1,1,25
+Alpaugh,13,Month-to-month,Bank transfer (automatic),48.723076923076924,0,1,0,0.9833594701076857,1,1,26
+Hermosa Beach,1,Month-to-month,Electronic check,69.6,1,1,1,0.9830072142023256,1,1,27
+Ludlow,28,Month-to-month,Electronic check,79.53928571428571,0,1,1,0.9824439665082664,1,1,28
+Garden Valley,2,Month-to-month,Bank transfer (automatic),96.9,1,1,0,0.9823806799026401,1,1,29
+Amador City,9,Month-to-month,Bank transfer (automatic),79.35,0,1,0,0.9820438417094743,1,1,30
+Grimes,15,Month-to-month,Electronic check,94.99666666666667,0,1,1,0.9809695846595202,1,1,31
+Mendocino,1,Month-to-month,Electronic check,85.05,1,1,1,0.9801325404922345,1,1,32
+Panorama City,4,Month-to-month,Mailed check,44.8375,1,1,1,0.979989022631109,1,1,33
+La Palma,2,Month-to-month,Electronic check,71.825,1,1,1,0.979733472519232,1,1,34
+Alhambra,3,Month-to-month,Electronic check,111.55,1,1,1,0.9795064442730512,1,1,35
+South Pasadena,3,Month-to-month,Electronic check,30.75,1,1,1,0.9778758836586442,1,0,36
+Branscomb,1,Month-to-month,Electronic check,69.25,1,1,1,0.9765243955824573,1,1,37
+Fort Jones,1,Month-to-month,Mailed check,50.45,1,1,1,0.9756210219751451,1,1,38
+Avenal,22,Month-to-month,Bank transfer (automatic),86.84545454545454,0,1,0,0.9740816924818688,1,1,39
+South Dos Palos,13,Month-to-month,Electronic check,23.138461538461538,0,1,1,0.9737936074895733,1,1,40
+Wheatland,1,Month-to-month,Mailed check,62.05,1,1,1,0.9734867649443092,1,1,41
+Dana Point,1,Month-to-month,Electronic check,79.5,1,1,1,0.9732490703310075,1,1,42
+Shafter,1,Month-to-month,Electronic check,80.0,1,1,1,0.9728651221631334,1,1,43
+Davenport,2,Month-to-month,Electronic check,85.575,1,1,1,0.9727876668455763,1,1,44
+Byron,2,Month-to-month,Mailed check,42.575,1,1,1,0.9722592976560853,1,1,45
+Pearblossom,13,Month-to-month,Electronic check,87.10384615384615,0,1,1,0.9717912319584281,1,1,46
+Dublin,1,Month-to-month,Electronic check,84.85,1,1,1,0.9712080718827759,1,1,47
+Elmira,4,Month-to-month,Electronic check,75.7875,1,1,1,0.9703078486580868,1,1,48
+Seaside,1,Month-to-month,Bank transfer (automatic),79.35,1,1,0,0.970027886211058,1,1,49
+Clearlake Oaks,2,Month-to-month,Electronic check,58.325,1,1,1,0.9695691476887371,1,1,50
+Pleasant Grove,4,Month-to-month,Credit card (automatic),110.7125,1,1,0,0.9686819354940053,1,1,51
+Thornton,6,Month-to-month,Electronic check,92.72500000000001,1,1,1,0.9681659643647244,1,1,52
+Elmira,10,Month-to-month,Electronic check,81.385,0,1,1,0.9678665235370228,1,1,53
+Westley,1,Month-to-month,Electronic check,71.0,1,1,1,0.967704028959629,1,1,54
+Douglas City,2,Month-to-month,Electronic check,68.975,1,1,1,0.967224596369849,1,1,55
+Palo Cedro,2,Month-to-month,Electronic check,82.7,1,1,1,0.9662459919971964,1,1,56
+Valley Center,2,Month-to-month,Electronic check,84.1,1,1,1,0.9661631617193877,1,1,57
+Mc Kittrick,7,Month-to-month,Electronic check,69.32142857142857,0,1,1,0.9661338019852344,1,0,58
+Onyx,3,Month-to-month,Mailed check,79.21666666666667,1,1,1,0.9657454257573544,1,0,59
+Anderson,5,Month-to-month,Electronic check,66.03,1,1,1,0.9650892126775376,1,1,60
+Vernalis,1,Month-to-month,Electronic check,80.5,1,1,1,0.9634472855274216,1,1,61
+Dutch Flat,4,Month-to-month,Electronic check,74.8,1,1,1,0.9621637151943153,1,1,62
+Lockwood,16,Month-to-month,Electronic check,98.825,0,1,1,0.961562196889205,1,1,63
+Apple Valley,5,Month-to-month,Mailed check,49.989999999999995,1,1,1,0.9600829764647631,1,1,64
+Sheep Ranch,13,Month-to-month,Credit card (automatic),104.53846153846153,0,1,0,0.9597246453841252,1,1,65
+Orangevale,32,Month-to-month,Bank transfer (automatic),80.8109375,0,1,0,0.9594145459572931,1,1,66
+Rowland Heights,1,Month-to-month,Electronic check,50.75,1,1,1,0.959382627709478,1,1,67
+Novato,3,Month-to-month,Electronic check,77.88333333333334,1,1,1,0.9589769134348924,1,0,68
+Camarillo,20,Month-to-month,Electronic check,88.8275,0,1,1,0.9588585543912209,1,1,69
+Napa,7,Month-to-month,Electronic check,95.06428571428572,0,1,1,0.9571042412599226,1,1,70
+Whitethorn,14,Month-to-month,Electronic check,89.89999999999999,0,1,1,0.9563225952162898,1,1,71
+Buellton,1,Month-to-month,Credit card (automatic),85.55,1,1,0,0.9560976179013416,1,1,72
+Davis,2,Month-to-month,Credit card (automatic),73.575,1,1,0,0.9554805725395961,1,1,73
+Antioch,3,Month-to-month,Bank transfer (automatic),71.93333333333334,1,1,0,0.9551586696419012,1,1,74
+Twentynine Palms,3,Month-to-month,Electronic check,97.3,1,1,1,0.9551062975561954,1,1,75
+Summerland,1,Month-to-month,Mailed check,19.3,1,1,1,0.9547977052904192,1,1,76
+Apple Valley,17,Month-to-month,Electronic check,82.40294117647058,0,1,1,0.9539923540146086,1,1,77
+Pleasant Grove,6,Month-to-month,Electronic check,82.49166666666666,1,1,1,0.9539691576201274,1,0,78
+Carnelian Bay,26,Month-to-month,Electronic check,96.7423076923077,0,1,1,0.9539669573633597,1,1,79
+Riverbank,39,Two year,Electronic check,82.09102564102565,0,0,1,0.9533922049019771,1,1,80
+Somis,8,Month-to-month,Credit card (automatic),113.56875,0,1,0,0.9533459422299941,1,0,81
+Oakdale,4,Month-to-month,Electronic check,29.625,1,1,1,0.9530545311064171,1,1,82
+San Rafael,8,Month-to-month,Electronic check,75.78125,0,1,1,0.9519600789985901,1,1,83
+Grimes,18,Month-to-month,Mailed check,48.797222222222224,0,1,1,0.9512824139390057,1,1,84
+Sheep Ranch,26,Month-to-month,Bank transfer (automatic),96.5653846153846,0,1,0,0.948182562339734,1,0,85
+Bangor,5,Month-to-month,Mailed check,85.27000000000001,1,1,1,0.9480821051667583,1,0,86
+Stockton,3,Month-to-month,Electronic check,109.98333333333333,1,1,1,0.9477273382471469,1,1,87
+Solana Beach,1,Month-to-month,Mailed check,80.05,1,1,1,0.9460922731891361,1,1,88
+Pacific Palisades,1,Month-to-month,Electronic check,69.9,1,1,1,0.9447764546815383,1,1,89
+Quincy,8,Month-to-month,Mailed check,41.925,0,1,1,0.9446859555982426,1,0,90
+Silverado,30,Month-to-month,Electronic check,99.46000000000001,0,1,1,0.9440936776205292,1,1,91
+Avalon,1,Month-to-month,Electronic check,71.65,1,1,1,0.9432679787992594,1,1,92
+Anza,30,Month-to-month,Electronic check,87.475,0,1,1,0.9417116300285782,1,1,93
+San Francisco,3,Month-to-month,Electronic check,85.53333333333335,1,1,1,0.9415043102091537,1,1,94
+Carmichael,14,Month-to-month,Electronic check,74.05357142857143,0,1,1,0.9381260954203664,1,1,95
+Foothill Ranch,4,One year,Electronic check,110.975,1,0,1,0.937976077039215,1,1,96
+San Diego,4,Month-to-month,Electronic check,66.3375,1,1,1,0.9371078174426759,1,1,97
+Holtville,69,Month-to-month,Credit card (automatic),101.55942028985508,0,1,0,0.9367191140385296,1,1,98
+Madera,1,Month-to-month,Electronic check,69.55,1,1,1,0.9362263345068188,1,1,99
+Bridgeville,3,Month-to-month,Mailed check,31.683333333333334,1,1,1,0.935449857481789,1,1,100
+Sloughhouse,15,Month-to-month,Electronic check,87.22666666666667,0,1,1,0.9348994547354657,1,1,101
+Antelope,13,Month-to-month,Credit card (automatic),68.98076923076923,0,1,0,0.9348847247870347,1,1,102
+Castella,31,Month-to-month,Electronic check,96.62741935483871,0,1,1,0.9327103813301305,1,1,103
+Los Angeles,2,Month-to-month,Electronic check,93.025,1,1,1,0.9322426942923068,1,0,104
+Los Angeles,3,Month-to-month,Electronic check,88.26666666666667,1,1,1,0.9321236874495027,1,1,105
+Carnelian Bay,13,Month-to-month,Electronic check,93.5076923076923,0,1,1,0.9319420925186539,1,1,106
+Palomar Mountain,25,Month-to-month,Bank transfer (automatic),90.31,0,1,0,0.9304140264444398,1,1,107
+Bangor,1,Month-to-month,Electronic check,50.5,1,1,1,0.9295987865290988,1,1,108
+Jamul,4,Month-to-month,Electronic check,89.1625,1,1,1,0.9295254636658643,1,0,109
+Lancaster,6,Month-to-month,Credit card (automatic),77.175,1,1,0,0.9283854588400173,1,1,110
+Costa Mesa,4,Month-to-month,Electronic check,70.2125,1,1,1,0.9280957574761214,1,1,111
+Loma Mar,10,Month-to-month,Electronic check,104.33,0,1,1,0.9279055373592949,1,1,112
+Palo Alto,4,Month-to-month,Electronic check,77.0125,1,1,1,0.9276355227136921,1,0,113
+Indio,1,Month-to-month,Electronic check,74.3,1,1,1,0.9272926233271704,1,0,114
+Pacific Grove,2,Month-to-month,Electronic check,85.725,1,1,1,0.925930058643247,1,0,115
+Benton,1,Month-to-month,Electronic check,88.35,1,1,1,0.9254645997184014,1,1,116
+Garden Grove,1,Month-to-month,Electronic check,102.45,1,1,1,0.9244665551545582,1,1,117
+Snelling,61,Month-to-month,Electronic check,98.52540983606558,0,1,1,0.9241927420975804,1,1,118
+Los Angeles,1,Month-to-month,Electronic check,76.45,1,1,1,0.9239602027246754,1,1,119
+Los Angeles,1,Month-to-month,Electronic check,74.5,1,1,1,0.9235314286907259,1,1,120
+Newberry Springs,13,Month-to-month,Electronic check,77.5923076923077,0,1,1,0.9234718614575863,1,1,121
+Holtville,26,Month-to-month,Mailed check,87.75384615384615,0,1,1,0.9229246837271072,1,0,122
+Lake Forest,15,Month-to-month,Electronic check,77.07333333333332,0,1,1,0.9219278474942101,1,1,123
+Dutch Flat,12,Month-to-month,Electronic check,79.99166666666666,0,1,1,0.9218631948068532,1,0,124
+Buena Park,2,Month-to-month,Electronic check,77.425,1,1,1,0.9207670189966473,1,1,125
+Sierraville,19,One year,Electronic check,98.71315789473684,0,0,1,0.9195677359022696,1,1,126
+San Diego,1,Month-to-month,Electronic check,69.1,1,1,1,0.9190323668856518,1,1,127
+Sunset Beach,1,Month-to-month,Electronic check,75.3,1,1,1,0.9167095096983848,1,1,128
+Novato,23,Month-to-month,Electronic check,84.48695652173913,0,1,1,0.9162269456331315,1,1,129
+Concord,22,Month-to-month,Electronic check,98.3,0,1,1,0.9158433025307073,1,0,130
+El Monte,24,Month-to-month,Credit card (automatic),38.887499999999996,0,1,0,0.9158131302912056,1,1,131
+Fresno,6,Month-to-month,Electronic check,85.375,1,1,1,0.9148728682606321,1,0,132
+San Lucas,36,Month-to-month,Credit card (automatic),87.02083333333333,0,1,0,0.9103170385209095,1,1,133
+Sierraville,3,One year,Electronic check,73.48333333333333,1,0,1,0.9082152068416258,1,0,134
+Mc Kittrick,20,Month-to-month,Credit card (automatic),86.375,0,1,0,0.9078107908078948,1,1,135
+Palo Alto,4,Month-to-month,Electronic check,90.025,1,1,1,0.9068811635008044,1,1,136
+Glendale,1,Month-to-month,Electronic check,24.8,1,1,1,0.9067938682558279,1,1,137
+Roseville,7,Month-to-month,Electronic check,100.12142857142858,0,1,1,0.9067082258651935,1,1,138
+Echo Lake,3,Month-to-month,Bank transfer (automatic),107.75,1,1,0,0.9047935112006344,1,1,139
+Fellows,8,Month-to-month,Electronic check,20.5375,0,1,1,0.903867317978049,1,1,140
+Hinkley,4,Month-to-month,Electronic check,76.85,1,1,1,0.9022980931761456,1,1,141
+Sloughhouse,21,Month-to-month,Electronic check,71.1047619047619,0,1,1,0.9019334105409874,1,0,142
+San Diego,7,Month-to-month,Electronic check,82.05,0,1,1,0.9001546216275615,1,0,143
+Anderson,37,Month-to-month,Electronic check,76.79864864864865,0,1,1,0.8995222533286688,1,1,144
+Samoa,1,Month-to-month,Electronic check,70.0,1,1,1,0.8988876362696151,1,1,145
+Fontana,4,Month-to-month,Electronic check,79.725,1,1,1,0.8984274160794979,1,1,146
+Anaheim,4,Month-to-month,Electronic check,86.55,1,1,1,0.898127080210288,1,1,147
+Indio,1,Month-to-month,Credit card (automatic),90.85,1,1,0,0.8978920673352186,1,1,148
+Carmel By The Sea,1,Month-to-month,Electronic check,71.0,1,1,1,0.8973953148463342,1,1,149
+North Fork,1,Month-to-month,Electronic check,77.15,1,1,1,0.8967684396118447,1,1,150
+Moreno Valley,2,Month-to-month,Electronic check,80.375,1,1,1,0.895358122069225,1,1,151
+Anaheim,3,Month-to-month,Electronic check,70.8,1,1,1,0.8953127302106286,1,0,152
+Mineral,42,Month-to-month,Bank transfer (automatic),102.93928571428572,0,1,0,0.8946291426681305,1,1,153
+Santa Cruz,1,Month-to-month,Mailed check,95.65,1,1,1,0.8945720592926777,1,1,154
+Lotus,38,Month-to-month,Bank transfer (automatic),75.52236842105263,0,1,0,0.8930598881946923,1,1,155
+Weaverville,36,Month-to-month,Electronic check,88.51944444444445,0,1,1,0.8918208635289521,1,1,156
+San Juan Bautista,4,Month-to-month,Electronic check,43.575,1,1,1,0.8906833255487276,1,1,157
+Vina,13,Month-to-month,Bank transfer (automatic),89.94999999999999,0,1,0,0.8894985887066053,1,1,158
+Homewood,34,Month-to-month,Mailed check,105.50735294117646,0,1,1,0.8888862347389002,1,1,159
+Castaic,36,Month-to-month,Electronic check,83.93333333333334,0,1,1,0.8885519975652724,1,1,160
+Rancho Cordova,5,Month-to-month,Credit card (automatic),69.92999999999999,1,1,0,0.8879619786299255,1,1,161
+Garden Grove,3,Month-to-month,Electronic check,80.14999999999999,1,1,1,0.8878094943918351,1,1,162
+Santee,8,Month-to-month,Electronic check,71.60625,0,1,1,0.8872984093531405,1,0,163
+North Hollywood,16,Month-to-month,Electronic check,74.64375,0,1,1,0.8862979917329498,1,1,164
+Stevenson Ranch,11,Month-to-month,Credit card (automatic),82.44090909090909,0,1,0,0.8855065284589303,1,1,165
+Red Bluff,37,Month-to-month,Bank transfer (automatic),109.64189189189189,0,1,0,0.8842644922611423,1,1,166
+Los Gatos,17,Month-to-month,Credit card (automatic),95.43823529411765,0,1,0,0.8841979986721132,1,1,167
+Los Angeles,11,Month-to-month,Electronic check,75.83636363636364,0,1,1,0.8818856449397895,1,1,168
+Jackson,1,Month-to-month,Mailed check,49.9,1,1,1,0.881034800043293,1,1,169
+Lake Hughes,32,Month-to-month,Credit card (automatic),107.278125,0,1,0,0.8795115928632882,1,1,170
+Torrance,3,Month-to-month,Mailed check,69.7,1,1,1,0.8785719718870127,1,1,171
+Gardena,1,Month-to-month,Electronic check,95.1,1,1,1,0.8781661312857643,1,1,172
+Frazier Park,6,Month-to-month,Electronic check,90.86666666666667,1,1,1,0.8778424843380929,1,1,173
+Westmorland,32,Month-to-month,Electronic check,76.4984375,0,1,1,0.877589741241144,1,1,174
+Pasadena,24,Month-to-month,Electronic check,101.41250000000001,0,1,1,0.8771971281703929,1,1,175
+Lockeford,4,Month-to-month,Electronic check,81.075,1,1,1,0.8761510337910787,1,1,176
+Placentia,1,Month-to-month,Electronic check,78.8,1,1,1,0.8757537964076456,1,1,177
+Pleasanton,27,Month-to-month,Electronic check,70.1462962962963,0,1,1,0.8739669094428066,1,1,178
+Buena Park,13,Month-to-month,Electronic check,40.650000000000006,0,1,1,0.8736461981959934,1,0,179
+Lancaster,22,Month-to-month,Electronic check,86.72045454545454,0,1,1,0.8731116861118188,1,1,180
+Carmel Valley,1,Month-to-month,Mailed check,74.25,1,1,1,0.872041456854716,1,1,181
+Lakewood,6,Month-to-month,Credit card (automatic),34.78333333333333,1,1,0,0.8709254332261046,1,1,182
+Modesto,19,Month-to-month,Bank transfer (automatic),80.65526315789474,0,1,0,0.8695847085859875,1,1,183
+Apple Valley,51,Month-to-month,Mailed check,71.56078431372549,0,1,1,0.869283340292203,1,0,184
+Hornbrook,2,Month-to-month,Mailed check,78.2,1,1,1,0.8688515691876857,1,1,185
+Lakeport,1,Month-to-month,Electronic check,69.9,1,1,1,0.8684188139373625,1,0,186
+Los Gatos,21,Month-to-month,Electronic check,86.12857142857143,0,1,1,0.8679230384863348,1,1,187
+Riverside,2,Month-to-month,Electronic check,69.7,1,1,1,0.8654103160196404,1,1,188
+Boulevard,24,Month-to-month,Electronic check,71.3625,0,1,1,0.8653181806842908,1,1,189
+San Pedro,3,Month-to-month,Electronic check,79.25,1,1,1,0.8644346169550771,1,1,190
+Joshua Tree,5,Month-to-month,Electronic check,90.75,1,1,1,0.8643967246544164,1,1,191
+Salinas,6,Month-to-month,Electronic check,78.3,1,1,1,0.8631136325677076,1,1,192
+Temecula,25,One year,Electronic check,87.098,0,0,1,0.8627976263898111,1,1,193
+North Hollywood,22,Month-to-month,Electronic check,90.97727272727273,0,1,1,0.8618631397276052,1,1,194
+Barstow,1,Month-to-month,Electronic check,70.6,1,1,1,0.8615667307598365,1,1,195
+Rio Oso,2,Month-to-month,Mailed check,68.025,1,1,1,0.8606530939470423,1,0,196
+San Francisco,3,Month-to-month,Mailed check,73.46666666666667,1,1,1,0.8605109936777378,1,0,197
+Stockton,1,Month-to-month,Electronic check,35.55,1,1,1,0.8585225172426915,1,1,198
+Garberville,2,Month-to-month,Electronic check,71.175,1,1,1,0.8582030833669967,1,1,199
+Pomona,49,Month-to-month,Electronic check,99.43775510204081,0,1,1,0.8575320015682592,1,1,200
+Onyx,52,Month-to-month,Electronic check,49.05576923076923,0,1,1,0.8570411273773767,1,1,201
+Five Points,28,One year,Electronic check,101.69285714285715,0,0,1,0.8565486116660482,1,1,202
+Merced,3,Month-to-month,Electronic check,64.73333333333333,1,1,1,0.855757183279438,1,0,203
+Stockton,10,Month-to-month,Electronic check,104.88499999999999,0,1,1,0.8555893493982496,1,1,204
+Pasadena,8,Month-to-month,Electronic check,71.55625,0,1,1,0.855455085546594,1,0,205
+Julian,24,Month-to-month,Mailed check,80.3625,0,1,1,0.8521400849157842,1,0,206
+Novato,28,One year,Bank transfer (automatic),92.81964285714285,0,0,0,0.8508169481445828,1,1,207
+Clipper Mills,4,Month-to-month,Electronic check,91.9875,1,1,1,0.8483212803970712,1,0,208
+Tranquillity,36,Month-to-month,Electronic check,85.50277777777778,0,1,1,0.8481134696338827,1,1,209
+Claremont,32,Month-to-month,Electronic check,99.48125,0,1,1,0.8471138348516277,1,1,210
+Caliente,1,Month-to-month,Electronic check,75.7,1,1,1,0.846504070193489,1,1,211
+North Hollywood,1,Month-to-month,Electronic check,21.0,1,1,1,0.8464608605551378,1,1,212
+Perris,5,Month-to-month,Electronic check,60.52,1,1,1,0.8460519063795524,1,0,213
+San Francisco,16,Month-to-month,Electronic check,74.3375,0,1,1,0.8453649308715645,1,0,214
+Pacoima,9,Month-to-month,Electronic check,21.13888888888889,0,1,1,0.8451002871321566,1,0,215
+Alviso,7,Month-to-month,Bank transfer (automatic),101.85714285714286,0,1,0,0.8446310314178916,1,1,216
+Burbank,1,Month-to-month,Mailed check,79.15,1,1,1,0.8443165128474134,1,0,217
+Greenfield,6,Month-to-month,Bank transfer (automatic),87.05833333333334,1,1,0,0.843664839771984,1,0,218
+Malibu,2,Month-to-month,Electronic check,97.525,1,1,1,0.8426043567275607,1,1,219
+Niland,18,Month-to-month,Credit card (automatic),88.73611111111111,0,1,0,0.8417408101561084,1,1,220
+Indio,8,Month-to-month,Bank transfer (automatic),97.2625,0,1,0,0.8385302324204696,1,1,221
+Modesto,26,Month-to-month,Electronic check,82.5576923076923,0,1,1,0.8372639457267432,1,0,222
+Phelan,13,Month-to-month,Electronic check,56.48846153846154,0,1,1,0.8355550343750591,1,1,223
+Panorama City,72,Two year,Credit card (automatic),112.3111111111111,0,0,0,0.8334349376523066,1,0,224
+Buena Park,41,Month-to-month,Electronic check,114.3780487804878,0,1,1,0.8303161873772381,1,1,225
+Buellton,46,Month-to-month,Credit card (automatic),92.29456521739131,0,1,0,0.8299227598621093,1,0,226
+Northridge,2,Month-to-month,Electronic check,34.375,1,1,1,0.8291872318780864,1,1,227
+Myers Flat,23,Month-to-month,Electronic check,101.80652173913045,0,1,1,0.827332548693226,1,0,228
+Sun City,34,Month-to-month,Electronic check,102.3529411764706,0,1,1,0.8272081730342044,1,1,229
+Paramount,1,Month-to-month,Electronic check,85.0,1,1,1,0.8271759071176242,1,1,230
+Hathaway Pines,12,Month-to-month,Bank transfer (automatic),71.55,0,1,0,0.824750771128665,1,1,231
+Silverado,56,One year,Electronic check,107.7375,0,0,1,0.8244839626643128,1,0,232
+Torrance,53,Month-to-month,Electronic check,104.70566037735848,0,1,1,0.823883483230707,1,1,233
+Niland,1,Month-to-month,Electronic check,49.95,1,1,1,0.8235331244835405,1,0,234
+Castaic,50,Month-to-month,Electronic check,97.774,0,1,1,0.8228346754165491,1,1,235
+Greenview,11,Month-to-month,Electronic check,107.55,0,1,1,0.8225421709774647,1,0,236
+Pollock Pines,8,Month-to-month,Electronic check,95.2625,0,1,1,0.8209814215480042,1,1,237
+Palmdale,2,Month-to-month,Electronic check,44.75,1,1,1,0.8206865009318189,1,1,238
+Shasta Lake,1,Month-to-month,Electronic check,25.05,1,1,1,0.819841077772299,1,1,239
+Valencia,9,Month-to-month,Electronic check,79.23333333333333,0,1,1,0.8195177579484245,1,1,240
+Dunlap,14,Month-to-month,Electronic check,109.38571428571429,0,1,1,0.8193395929128083,1,1,241
+Brooks,2,Month-to-month,Electronic check,69.625,1,1,1,0.8166000213925858,1,0,242
+El Centro,3,Month-to-month,Credit card (automatic),85.41666666666667,1,1,0,0.8150481051759545,1,1,243
+Pearblossom,57,Two year,Bank transfer (automatic),113.42105263157895,0,0,0,0.8129576400698242,1,1,244
+Susanville,55,Month-to-month,Bank transfer (automatic),54.150909090909096,0,1,0,0.8122492934807201,1,1,245
+Long Beach,8,Month-to-month,Electronic check,79.025,0,1,1,0.811780680187945,1,0,246
+Ventura,9,Month-to-month,Electronic check,27.66111111111111,0,1,1,0.8111264983857469,1,1,247
+Visalia,1,Month-to-month,Electronic check,48.6,1,1,1,0.8110045001293094,1,0,248
+Nuevo,7,Month-to-month,Mailed check,75.41428571428571,0,1,1,0.8104621506420605,1,1,249
+Pala,2,Month-to-month,Credit card (automatic),57.55,1,1,0,0.8103392294083006,1,1,250
+Earlimart,3,Month-to-month,Bank transfer (automatic),74.10000000000001,1,1,0,0.8098496896131505,1,1,251
+Davis Creek,9,Month-to-month,Electronic check,90.75555555555555,0,1,1,0.8073756582332596,1,0,252
+Long Beach,1,Month-to-month,Electronic check,76.35,1,1,1,0.8067172340785067,1,1,253
+San Diego,25,Month-to-month,Electronic check,87.846,0,1,1,0.8061363389866438,1,1,254
+Newcastle,2,Month-to-month,Electronic check,39.325,1,1,1,0.805187032228945,1,1,255
+San Diego,1,Month-to-month,Mailed check,25.35,1,1,1,0.804104151764717,1,0,256
+Mountain View,13,Month-to-month,Mailed check,94.63461538461539,0,1,1,0.8030681258325556,1,1,257
+Rosemead,40,Month-to-month,Electronic check,82.3075,0,1,1,0.8004296605080917,1,0,258
+Stockton,30,Month-to-month,Electronic check,98.91166666666666,0,1,1,0.7993548688256256,1,1,259
+Chula Vista,12,Month-to-month,Electronic check,97.79583333333333,0,1,1,0.7981770097019643,1,0,260
+Valencia,3,Month-to-month,Electronic check,41.21666666666667,1,1,1,0.7977409481032739,1,1,261
+Los Angeles,7,Month-to-month,Bank transfer (automatic),78.99285714285715,0,1,0,0.7964980592934957,1,1,262
+Klamath River,17,One year,Bank transfer (automatic),100.29117647058824,0,0,0,0.7959490177808656,1,1,263
+Wendel,5,Month-to-month,Electronic check,74.05,1,1,1,0.7953364888365191,1,0,264
+Columbia,5,Month-to-month,Credit card (automatic),51.96,1,1,0,0.7950575236452732,1,1,265
+Santa Rosa,21,Month-to-month,Electronic check,29.969047619047622,0,1,1,0.7950233464087977,1,0,266
+Soda Springs,24,Month-to-month,Bank transfer (automatic),40.47083333333333,0,1,0,0.7925596907776329,1,1,267
+Canyon Country,1,Month-to-month,Mailed check,45.95,1,1,1,0.7868737825066517,1,1,268
+Pleasanton,33,Month-to-month,Bank transfer (automatic),80.5,0,1,0,0.784321710844833,1,1,269
+San Bernardino,26,Month-to-month,Electronic check,90.45384615384616,0,1,1,0.7829634155060375,1,1,270
+Downieville,4,Month-to-month,Bank transfer (automatic),83.4,1,1,0,0.7828558962318481,1,1,271
+Los Angeles,18,Month-to-month,Electronic check,96.70555555555556,0,1,1,0.7820193750730273,1,1,272
+Clearlake,46,Month-to-month,Electronic check,86.29130434782608,0,1,1,0.7815909510596736,1,1,273
+Inverness,6,Month-to-month,Electronic check,52.425000000000004,1,1,1,0.7807852012867966,1,0,274
+Pine Grove,5,Month-to-month,Credit card (automatic),85.17999999999999,1,1,0,0.7780685363751165,1,1,275
+Oroville,2,Month-to-month,Electronic check,36.2,1,1,1,0.7771573346015234,1,1,276
+San Jose,32,Month-to-month,Credit card (automatic),98.309375,0,1,0,0.7768145717827086,1,0,277
+Hawthorne,1,Month-to-month,Electronic check,59.85,1,1,1,0.7734277452494475,1,1,278
+Los Angeles,38,Month-to-month,Electronic check,96.13157894736842,0,1,1,0.7724774584918632,1,0,279
+Hollister,3,Month-to-month,Mailed check,43.583333333333336,1,1,1,0.7719850198154835,1,1,280
+Glendale,1,Month-to-month,Electronic check,45.1,1,1,1,0.7718801462609994,1,1,281
+Santa Barbara,66,Month-to-month,Credit card (automatic),103.36590909090908,0,1,0,0.769499949382277,1,1,282
+San Jose,1,Month-to-month,Electronic check,55.4,1,1,1,0.7682373018424619,1,1,283
+Carmichael,8,Month-to-month,Mailed check,46.1625,0,1,1,0.7681961576022185,1,0,284
+Sunol,24,Month-to-month,Electronic check,93.27083333333333,0,1,1,0.767113663104562,1,1,285
+Canby,1,Month-to-month,Electronic check,55.25,1,1,1,0.7669916546003865,1,0,286
+San Diego,44,Month-to-month,Electronic check,111.70795454545454,0,1,1,0.7663081906589561,1,0,287
+Pescadero,1,Month-to-month,Electronic check,24.6,1,1,1,0.765882930024404,1,1,288
+Westlake Village,3,Month-to-month,Electronic check,82.41666666666667,1,1,1,0.7638876407518713,1,1,289
+Anaheim,21,Month-to-month,Bank transfer (automatic),96.43333333333332,0,1,0,0.763860751322696,1,0,290
+Oakland,7,Month-to-month,Electronic check,86.97142857142856,0,1,1,0.7635692188198449,1,1,291
+Glendale,1,Month-to-month,Bank transfer (automatic),29.95,1,1,0,0.7621967364360576,1,1,292
+Ballico,2,Month-to-month,Credit card (automatic),24.85,1,1,0,0.7590368751220834,1,0,293
+Tomales,2,Month-to-month,Bank transfer (automatic),72.275,1,1,0,0.7579658838186983,1,1,294
+Bakersfield,5,Month-to-month,Electronic check,84.95,1,1,1,0.7575843490643458,1,0,295
+Burbank,13,Month-to-month,Mailed check,100.13076923076923,0,1,1,0.7574317942139681,1,1,296
+Riverside,21,Month-to-month,Electronic check,82.7357142857143,0,1,1,0.7574178419903533,1,0,297
+Costa Mesa,11,Month-to-month,Mailed check,54.690909090909095,0,1,1,0.7570147781027193,1,0,298
+Inglewood,9,Month-to-month,Electronic check,80.51666666666667,0,1,1,0.7559680447535166,1,0,299
+Blue Lake,12,Month-to-month,Mailed check,54.05416666666667,0,1,1,0.7557997893707777,1,0,300
+Hemet,2,Month-to-month,Electronic check,92.05,1,1,1,0.7545067075572883,1,1,301
+Armona,2,Month-to-month,Mailed check,30.525,1,1,1,0.7525502184044877,1,0,302
+Port Hueneme,18,Month-to-month,Credit card (automatic),96.97222222222223,0,1,0,0.7497415785320507,1,0,303
+Redwood Valley,21,Month-to-month,Electronic check,100.48333333333333,0,1,1,0.7490641649318359,1,1,304
+Granada Hills,8,Month-to-month,Electronic check,72.0875,0,1,1,0.7483037143790788,1,0,305
+Anaheim,10,Month-to-month,Electronic check,74.0,0,1,1,0.7470180026395671,1,1,306
+Mountain Ranch,5,Month-to-month,Electronic check,56.79,1,1,1,0.7469372515594784,1,0,307
+Parlier,27,Month-to-month,Electronic check,92.97037037037036,0,1,1,0.7456058947336851,1,1,308
+Rosamond,10,Month-to-month,Credit card (automatic),76.515,0,1,0,0.7454779458542881,1,0,309
+Salinas,6,Month-to-month,Mailed check,85.76666666666667,1,1,1,0.7454248834772714,1,0,310
+San Bernardino,7,Month-to-month,Electronic check,65.44285714285715,0,1,1,0.7440048216194024,1,0,311
+Chino,54,Month-to-month,Electronic check,111.38611111111112,0,1,1,0.7430170637619344,1,1,312
+Cutler,21,Month-to-month,Credit card (automatic),94.88333333333333,0,1,0,0.7403626321868733,1,0,313
+Desert Hot Springs,20,Month-to-month,Electronic check,76.045,0,1,1,0.7384670697209507,1,1,314
+Los Angeles,1,Month-to-month,Mailed check,44.15,1,1,1,0.7376853080825357,1,1,315
+San Bernardino,45,Month-to-month,Bank transfer (automatic),108.50666666666667,0,1,0,0.7367859727563655,1,0,316
+Palermo,25,Month-to-month,Electronic check,97.95,0,1,1,0.7358736028954243,1,1,317
+Weaverville,5,Month-to-month,Credit card (automatic),19.11,1,1,0,0.7339809049476709,1,0,318
+Los Angeles,12,Month-to-month,Credit card (automatic),79.85416666666667,0,1,0,0.7338081879634388,1,0,319
+Imperial,4,Month-to-month,Mailed check,68.0375,1,1,1,0.7276447760486192,1,1,320
+El Sobrante,19,Month-to-month,Electronic check,77.46052631578948,0,1,1,0.7231774939940964,1,1,321
+San Diego,4,Month-to-month,Mailed check,50.575,1,1,1,0.7208451567581993,1,0,322
+Mojave,44,Month-to-month,Mailed check,48.61590909090909,0,1,1,0.7203489409848342,1,0,323
+Los Angeles,1,Month-to-month,Electronic check,54.9,1,1,1,0.7190630248642477,1,1,324
+Twentynine Palms,16,Month-to-month,Credit card (automatic),90.5375,0,1,0,0.7188897606351156,1,1,325
+San Diego,47,Month-to-month,Electronic check,96.46170212765956,0,1,1,0.7181520699015704,1,1,326
+Anaheim,1,Month-to-month,Mailed check,75.3,1,1,1,0.7162569543064082,1,1,327
+Riverside,42,Month-to-month,Electronic check,100.54642857142856,0,1,1,0.7159442717172322,1,0,328
+Ladera Ranch,20,Month-to-month,Electronic check,82.4225,0,1,1,0.7154761376715182,1,0,329
+Waterford,42,Month-to-month,Electronic check,57.660714285714285,0,1,1,0.715250889112651,1,0,330
+Madison,34,Month-to-month,Electronic check,94.63382352941177,0,1,1,0.7148994094670369,1,1,331
+Sacramento,33,Month-to-month,Electronic check,89.81969696969698,0,1,1,0.7102789216184607,1,0,332
+San Rafael,7,One year,Electronic check,52.75,0,0,1,0.7098346938133283,1,0,333
+San Diego,51,One year,Electronic check,97.0107843137255,0,0,1,0.7093042525069597,1,0,334
+Princeton,58,One year,Credit card (automatic),46.36810344827586,0,0,0,0.7090377321720138,1,0,335
+Westmorland,38,Month-to-month,Credit card (automatic),69.08552631578948,0,1,0,0.7082799624486226,1,0,336
+La Grange,60,Month-to-month,Electronic check,100.29833333333333,0,1,1,0.7071667173366262,1,0,337
+Fort Bidwell,64,One year,Mailed check,107.51328125,0,0,1,0.7057742701886933,1,0,338
+Atwater,67,Month-to-month,Credit card (automatic),53.420149253731346,0,1,0,0.7056739387279103,1,0,339
+Weimar,1,Month-to-month,Mailed check,53.5,1,1,1,0.7050126771400991,1,1,340
+Los Angeles,25,Month-to-month,Electronic check,107.44200000000001,0,1,1,0.7039659283140337,1,0,341
+Santa Rosa,1,Month-to-month,Mailed check,20.45,1,1,1,0.7030984874126258,1,0,342
+Gualala,60,Month-to-month,Electronic check,106.85416666666667,0,1,1,0.7015138984681928,1,0,343
+Mineral,54,One year,Bank transfer (automatic),106.72777777777777,0,0,0,0.7012035011052191,1,1,344
+Madison,2,Month-to-month,Credit card (automatic),59.125,1,1,0,0.6981639995824346,1,0,345
+Rialto,10,Month-to-month,Credit card (automatic),79.425,0,1,0,0.696186959620456,1,1,346
+Napa,62,One year,Electronic check,102.95725806451614,0,0,1,0.6958016945202272,1,1,347
+Fresno,24,Month-to-month,Electronic check,87.01875,0,1,1,0.6956470496736519,1,0,348
+Glendora,3,Month-to-month,Electronic check,25.916666666666668,1,1,1,0.6924694653809086,1,1,349
+Glendale,54,Month-to-month,Electronic check,91.32962962962964,0,1,1,0.6922614771123397,1,0,350
+San Jacinto,4,Month-to-month,Mailed check,59.625,1,1,1,0.6919427297279781,1,0,351
+Stevinson,12,Month-to-month,Bank transfer (automatic),86.95,0,1,0,0.6908804115531262,1,0,352
+Vallejo,37,Month-to-month,Electronic check,96.76486486486488,0,1,1,0.6890658493552091,1,1,353
+Point Arena,54,Month-to-month,Credit card (automatic),98.06851851851852,0,1,0,0.6878051202491697,1,0,354
+Brea,27,One year,Credit card (automatic),46.162962962962965,0,0,0,0.6875654742029128,1,0,355
+Terra Bella,1,Month-to-month,Electronic check,49.9,1,1,1,0.6860785343789905,1,0,356
+Norco,52,Month-to-month,Electronic check,108.61442307692307,0,1,1,0.6857968827040629,1,0,357
+Forest Knolls,1,Month-to-month,Electronic check,44.0,1,1,1,0.6835247270591521,1,0,358
+Eureka,7,Month-to-month,Mailed check,68.67857142857143,0,1,1,0.6808641120829222,1,1,359
+Oakland,7,Month-to-month,Mailed check,71.04285714285714,0,1,1,0.6790842767090498,1,0,360
+Bass Lake,1,Month-to-month,Electronic check,52.2,1,1,1,0.6779419658294088,1,1,361
+California Hot Springs,1,Month-to-month,Electronic check,45.2,1,1,1,0.677230317702027,1,0,362
+Santa Barbara,8,Month-to-month,Credit card (automatic),72.7125,0,1,0,0.6754649127448882,1,0,363
+Bakersfield,1,Month-to-month,Electronic check,70.25,1,1,1,0.673226205717507,1,1,364
+Callahan,1,Month-to-month,Mailed check,45.85,1,1,1,0.6725998793359945,1,1,365
+Moorpark,66,One year,Credit card (automatic),105.70833333333333,0,0,0,0.6713676983875569,1,0,366
+Los Altos,6,Month-to-month,Electronic check,82.925,1,1,1,0.6678763008963712,1,1,367
+Los Angeles,7,One year,Mailed check,90.49285714285715,0,0,1,0.666306105593437,1,0,368
+Long Beach,22,Month-to-month,Bank transfer (automatic),82.81590909090909,0,1,0,0.6654995440810453,1,0,369
+Nicolaus,1,Month-to-month,Mailed check,45.4,1,1,1,0.66374791654014,1,1,370
+Newport Beach,32,Month-to-month,Bank transfer (automatic),81.1296875,0,1,0,0.6631258741224357,1,1,371
+Mather,1,Month-to-month,Credit card (automatic),49.25,1,1,0,0.6623735539682511,1,1,372
+Greenbrae,14,Month-to-month,Credit card (automatic),90.43571428571428,0,1,0,0.6623543762696609,1,1,373
+Lakeport,31,Month-to-month,Electronic check,85.17903225806452,0,1,1,0.6607128520050736,1,0,374
+Santa Barbara,19,Month-to-month,Bank transfer (automatic),24.650000000000002,0,1,0,0.6603684285178328,1,0,375
+Fawnskin,1,Month-to-month,Mailed check,29.15,1,1,1,0.6590210051408595,1,0,376
+Los Angeles,6,Month-to-month,Credit card (automatic),52.11666666666667,1,1,0,0.6583646927696213,1,0,377
+San Pablo,13,Month-to-month,Electronic check,49.95384615384615,0,1,1,0.6580655610833513,1,0,378
+Vista,23,Month-to-month,Electronic check,74.36739130434783,0,1,1,0.6568613820521145,1,1,379
+Fresno,21,Month-to-month,Mailed check,105.47619047619048,0,1,1,0.6567981295875519,1,0,380
+Witter Springs,3,Month-to-month,Mailed check,33.699999999999996,1,1,1,0.6566927852003988,1,0,381
+Nicasio,41,Month-to-month,Electronic check,54.03414634146342,0,1,1,0.6552068577101594,1,0,382
+Moraga,50,Month-to-month,Mailed check,35.648,0,1,1,0.6551029197277655,1,0,383
+Lone Pine,55,Month-to-month,Electronic check,73.68,0,1,1,0.6542981433929694,1,0,384
+Los Angeles,11,Month-to-month,Electronic check,38.64545454545455,0,1,1,0.6541023952100262,1,0,385
+Magalia,17,Month-to-month,Electronic check,77.26764705882353,0,1,1,0.6524471153362608,1,1,386
+San Jose,43,Month-to-month,Electronic check,95.51860465116279,0,1,1,0.6524374195077588,1,0,387
+Los Angeles,46,Month-to-month,Bank transfer (automatic),95.6413043478261,0,1,0,0.6520540749661012,1,1,388
+San Jose,24,Month-to-month,Credit card (automatic),86.36458333333333,0,1,0,0.6516658823467721,1,0,389
+Portola,17,Month-to-month,Bank transfer (automatic),86.08529411764707,0,1,0,0.6516292424719798,1,1,390
+Sunnyvale,2,Month-to-month,Bank transfer (automatic),76.525,1,1,0,0.6503528939257643,1,1,391
+Clayton,29,Month-to-month,Bank transfer (automatic),99.26724137931035,0,1,0,0.6483675310936207,1,0,392
+Arnold,1,Month-to-month,Mailed check,50.45,1,1,1,0.6477833842503871,1,1,393
+Lancaster,1,Month-to-month,Mailed check,19.75,1,1,1,0.6476965971603399,1,1,394
+San Jose,16,Month-to-month,Credit card (automatic),73.640625,0,1,0,0.6463889396847188,1,1,395
+Millbrae,13,Month-to-month,Electronic check,76.56538461538462,0,1,1,0.6451243164599848,1,0,396
+Catheys Valley,43,Month-to-month,Electronic check,91.93372093023255,0,1,1,0.6447995079119904,1,0,397
+Oroville,1,Month-to-month,Electronic check,53.95,1,1,1,0.6438208481830464,1,1,398
+Lancaster,1,Month-to-month,Mailed check,20.8,1,1,1,0.6437783267141787,1,0,399
+Huron,2,One year,Mailed check,17.95,1,0,1,0.6416790525466487,1,1,400
+Concord,3,Month-to-month,Mailed check,19.916666666666668,1,1,1,0.6412917127948974,1,1,401
+Elk,2,Month-to-month,Mailed check,46.375,1,1,1,0.6407456379606998,1,0,402
+Graton,20,Month-to-month,Bank transfer (automatic),77.0175,0,1,0,0.6393469986814567,1,0,403
+West Covina,18,Month-to-month,Mailed check,98.88611111111112,0,1,1,0.639240826223837,1,1,404
+Oak View,67,Month-to-month,Credit card (automatic),90.73134328358209,0,1,0,0.6371885207683293,1,0,405
+Lancaster,2,Month-to-month,Electronic check,54.325,1,1,1,0.6369714038362958,1,0,406
+Newport Coast,61,Month-to-month,Electronic check,116.92049180327868,0,1,1,0.6358936094725899,1,0,407
+Branscomb,9,Month-to-month,Credit card (automatic),16.394444444444446,0,1,0,0.6353234719588177,1,0,408
+Beverly Hills,14,Month-to-month,Electronic check,90.95,0,1,1,0.6336136591485457,1,0,409
+Santa Maria,7,Month-to-month,Electronic check,100.18571428571428,0,1,1,0.6311800758853533,1,0,410
+Temecula,5,One year,Electronic check,19.919999999999998,1,0,1,0.6293991096012438,1,0,411
+Newport Beach,57,Month-to-month,Bank transfer (automatic),95.21140350877194,0,1,0,0.6269095526252918,1,1,412
+Stockton,1,Month-to-month,Mailed check,44.75,1,1,1,0.6265791996816211,1,0,413
+Lawndale,1,Month-to-month,Mailed check,19.05,1,1,1,0.6258641187714317,1,0,414
+Long Beach,37,Month-to-month,Electronic check,91.0608108108108,0,1,1,0.6253003264337899,1,0,415
+Casmalia,32,Month-to-month,Bank transfer (automatic),83.259375,0,1,0,0.6243869242049352,1,0,416
+Richmond,28,Month-to-month,Electronic check,93.79107142857143,0,1,1,0.6231668363568797,1,0,417
+San Jose,1,Month-to-month,Credit card (automatic),49.8,1,1,0,0.6223569458153819,1,0,418
+Anaheim,9,Month-to-month,Credit card (automatic),32.900000000000006,0,1,0,0.6193828519596546,1,1,419
+Parker Dam,63,Month-to-month,Electronic check,102.84761904761905,0,1,1,0.6183617837366165,1,0,420
+Lotus,16,Month-to-month,Bank transfer (automatic),95.16875,0,1,0,0.6180314576243995,1,0,421
+Woodbridge,13,Month-to-month,Credit card (automatic),79.18076923076923,0,1,0,0.6176613991407973,1,0,422
+San Marino,19,Month-to-month,Bank transfer (automatic),45.57105263157895,0,1,0,0.6139678624699992,1,0,423
+San Mateo,25,Month-to-month,Bank transfer (automatic),87.646,0,1,0,0.61289486037883,1,0,424
+Oakland,45,Month-to-month,Electronic check,85.81,0,1,1,0.6075327247242588,1,0,425
+Maxwell,18,Month-to-month,Mailed check,77.05555555555556,0,1,1,0.6064135524872195,1,0,426
+Avenal,72,Two year,Bank transfer (automatic),85.44305555555555,0,0,0,0.6053507507826404,1,0,427
+Bellflower,40,Month-to-month,Credit card (automatic),80.84625,0,1,0,0.6042268375418292,1,1,428
+Rancho Mirage,2,Month-to-month,Mailed check,19.35,1,1,1,0.6031674502705375,1,1,429
+Los Angeles,5,Month-to-month,Electronic check,63.379999999999995,1,1,1,0.6024238698106666,1,1,430
+Twentynine Palms,56,One year,Electronic check,94.11785714285715,0,0,1,0.600831249503041,1,0,431
+Valley Village,31,Month-to-month,Electronic check,97.40322580645162,0,1,1,0.5998327578761571,1,1,432
+Crockett,25,Month-to-month,Bank transfer (automatic),81.152,0,1,0,0.5996482863197207,1,0,433
+Pine Grove,24,Month-to-month,Electronic check,80.75208333333333,0,1,1,0.5991282485355397,1,0,434
+Big Bear City,4,Month-to-month,Electronic check,54.9125,1,1,1,0.5973775032882751,1,1,435
+San Diego,1,Month-to-month,Mailed check,20.1,1,1,1,0.5966301298745577,1,1,436
+Ontario,19,Month-to-month,Mailed check,105.64473684210526,0,1,1,0.5943501953931615,1,0,437
+Fresno,19,Month-to-month,Credit card (automatic),88.01842105263158,0,1,0,0.5898748754265292,1,0,438
+Los Angeles,3,Month-to-month,Electronic check,80.43333333333334,1,1,1,0.5887297692850334,1,0,439
+Fallbrook,4,Month-to-month,Bank transfer (automatic),21.375,1,1,0,0.5860531839843218,1,1,440
+San Jacinto,1,Month-to-month,Credit card (automatic),43.95,1,1,0,0.5853312858394675,1,0,441
+Long Beach,31,Month-to-month,Bank transfer (automatic),86.26290322580645,0,1,0,0.5853096021155854,1,0,442
+Highland,15,Month-to-month,Electronic check,49.95,0,1,1,0.5827333906606407,1,0,443
+Carmel,2,Month-to-month,Mailed check,53.55,1,1,1,0.5817691902177284,1,0,444
+Inyokern,70,Two year,Electronic check,110.74357142857143,0,0,1,0.5780692634045151,1,0,445
+Los Angeles,23,Month-to-month,Bank transfer (automatic),33.410869565217396,0,1,0,0.5779084064827661,1,0,446
+Strawberry Valley,45,Two year,Credit card (automatic),95.24000000000001,0,0,0,0.5774308452546172,1,0,447
+Perris,6,Month-to-month,Mailed check,86.45833333333333,1,1,1,0.5774307452293558,1,0,448
+Brentwood,1,Month-to-month,Electronic check,85.0,1,1,1,0.5751737973916495,1,0,449
+Herald,50,Month-to-month,Electronic check,68.89699999999999,0,1,1,0.5729643805539204,1,1,450
+Long Beach,22,Month-to-month,Mailed check,67.74545454545455,0,1,1,0.5726102594870949,1,0,451
+Leggett,2,Month-to-month,Electronic check,72.0,1,1,1,0.5692744344516928,1,0,452
+Murphys,4,Month-to-month,Electronic check,55.1625,1,1,1,0.5680534283593016,1,0,453
+Santa Ana,9,Month-to-month,Electronic check,45.077777777777776,0,1,1,0.5638404831445387,1,0,454
+Huntington Beach,2,Month-to-month,Mailed check,51.85,1,1,1,0.5626925865294528,1,0,455
+San Jose,24,Month-to-month,Electronic check,28.666666666666668,0,1,1,0.5617264262860784,1,0,456
+Calipatria,3,Month-to-month,Mailed check,43.36666666666667,1,1,1,0.5598984733941068,1,1,457
+Orange,3,Month-to-month,Credit card (automatic),36.31666666666667,1,1,0,0.5598324633497473,1,1,458
+Zenia,15,Month-to-month,Electronic check,84.68,0,1,1,0.5580548955523603,1,1,459
+Arcadia,5,Month-to-month,Mailed check,79.89,1,1,1,0.55705683286091,1,0,460
+San Diego,6,Month-to-month,Bank transfer (automatic),24.383333333333336,1,1,0,0.5557748453706447,1,1,461
+Sun City,23,Month-to-month,Bank transfer (automatic),76.4608695652174,0,1,0,0.555651260232785,1,1,462
+Yucaipa,58,Month-to-month,Electronic check,100.3051724137931,0,1,1,0.5536620547844844,1,0,463
+Redlands,43,One year,Mailed check,55.608139534883726,0,0,1,0.553517049231491,1,0,464
+Van Nuys,34,Month-to-month,Mailed check,79.95,0,1,1,0.5529769697478326,1,1,465
+San Marino,11,Month-to-month,Credit card (automatic),45.54545454545455,0,1,0,0.552896849624354,1,1,466
+Hinkley,18,Month-to-month,Electronic check,50.73888888888889,0,1,1,0.5515075223848895,1,0,467
+Stockton,55,Month-to-month,Bank transfer (automatic),90.17454545454547,0,1,0,0.5514715436115583,1,0,468
+San Diego,49,One year,Mailed check,100.8530612244898,0,0,1,0.55111814185454,1,1,469
+Pasadena,65,One year,Electronic check,102.68692307692307,0,0,1,0.5508461110907145,1,0,470
+Maxwell,19,Month-to-month,Mailed check,73.39736842105263,0,1,1,0.5502632274552453,1,0,471
+Escondido,52,Month-to-month,Credit card (automatic),98.8096153846154,0,1,0,0.5482279887930833,1,0,472
+Santa Paula,68,Two year,Electronic check,115.52941176470588,0,0,1,0.5470904126837852,1,1,473
+Menlo Park,7,Month-to-month,Electronic check,76.14999999999999,0,1,1,0.546257704617896,1,0,474
+Courtland,6,Month-to-month,Mailed check,66.88333333333334,1,1,1,0.5431310852311664,1,0,475
+Mi Wuk Village,67,Month-to-month,Credit card (automatic),102.10522388059702,0,1,0,0.541503667493503,1,0,476
+Imperial Beach,23,One year,Bank transfer (automatic),65.64347826086956,0,0,0,0.540042084590503,1,0,477
+Santa Barbara,9,Month-to-month,Bank transfer (automatic),64.10555555555555,0,1,0,0.5397943343370913,1,0,478
+Princeton,60,Two year,Credit card (automatic),110.67833333333333,0,0,0,0.5396584988699796,1,0,479
+West Sacramento,60,Month-to-month,Electronic check,99.7625,0,1,1,0.5393452024733334,1,0,480
+March Air Reserve Base,61,Two year,Electronic check,92.43114754098362,0,0,1,0.5386326145902058,1,1,481
+Sacramento,22,Month-to-month,Credit card (automatic),101.58863636363635,0,1,0,0.535275874373461,1,0,482
+San Diego,10,Month-to-month,Electronic check,58.3,0,1,1,0.5335209969670046,1,0,483
+Tahoe City,14,Month-to-month,Credit card (automatic),69.96428571428571,0,1,0,0.5258515348940964,1,0,484
+Orland,56,One year,Electronic check,98.48125,0,0,1,0.5246077369263737,1,0,485
+Ridgecrest,22,One year,Bank transfer (automatic),70.18409090909091,0,0,0,0.52445579315495,1,1,486
+Snelling,61,One year,Electronic check,102.31721311475411,0,0,1,0.5242124431125895,1,0,487
+Lotus,12,Month-to-month,Credit card (automatic),61.7125,0,1,0,0.5240530189471198,1,0,488
+Cabazon,16,Month-to-month,Electronic check,65.20625,0,1,1,0.5237498964022215,1,0,489
+La Habra,1,Month-to-month,Mailed check,48.75,1,1,1,0.5222353302488253,1,0,490
+Palermo,3,Month-to-month,Mailed check,18.416666666666668,1,1,1,0.5205243648978918,1,0,491
+Los Angeles,10,Month-to-month,Mailed check,30.189999999999998,0,1,1,0.5180862104299924,1,0,492
+Pico Rivera,27,Month-to-month,Electronic check,79.0925925925926,0,1,1,0.5173957878308298,1,1,493
+San Diego,56,One year,Electronic check,114.62321428571428,0,0,1,0.516909086496713,1,1,494
+Squaw Valley,28,One year,Electronic check,89.61607142857143,0,0,1,0.516432882888762,1,0,495
+Agoura Hills,2,Month-to-month,Mailed check,56.775,1,1,1,0.5158331953952345,1,1,496
+Travis Afb,62,One year,Electronic check,105.31048387096774,0,0,1,0.5155277029056007,1,1,497
+Denair,42,Month-to-month,Electronic check,52.46785714285714,0,1,1,0.5101428473271381,1,1,498
+Victorville,15,Month-to-month,Bank transfer (automatic),66.32,0,1,0,0.5095006086798127,1,1,499
+Clements,40,Month-to-month,Bank transfer (automatic),88.30625,0,1,0,0.5085236932643089,1,0,500
+Westport,20,Month-to-month,Bank transfer (automatic),80.71000000000001,0,1,0,0.5052679330414174,1,0,501
+Olancha,41,Month-to-month,Electronic check,75.34390243902439,0,1,1,0.5040506537346805,1,0,502
+French Camp,8,Month-to-month,Electronic check,65.11875,0,1,1,0.5036046850065244,1,0,503
+Sierra Madre,56,Month-to-month,Electronic check,104.30982142857144,0,1,1,0.5030994514407116,1,0,504
+Burbank,35,Month-to-month,Bank transfer (automatic),104.38142857142857,0,1,0,0.5028098968725759,1,1,505
+Manhattan Beach,9,Month-to-month,Credit card (automatic),102.08333333333333,0,1,0,0.49641813339617574,1,0,506
+Colton,33,Month-to-month,Bank transfer (automatic),72.9121212121212,0,1,0,0.495813182108729,1,0,507
+Simi Valley,23,Month-to-month,Electronic check,85.5695652173913,0,1,1,0.4947459546450148,1,0,508
+Los Angeles,18,Month-to-month,Credit card (automatic),56.169444444444444,0,1,0,0.4930352318848771,1,0,509
+Fresno,57,Month-to-month,Electronic check,54.28157894736842,0,1,1,0.4926219468394216,1,0,510
+Lemoore,11,Month-to-month,Electronic check,92.74545454545455,0,1,1,0.49219205189125836,1,0,511
+Oakland,18,Month-to-month,Electronic check,55.047222222222224,0,1,1,0.4920755335630086,1,1,512
+Los Angeles,15,Month-to-month,Mailed check,59.986666666666665,0,1,1,0.49081112515221753,1,1,513
+San Bruno,15,Month-to-month,Mailed check,48.00666666666667,0,1,1,0.486958825006902,1,0,514
+Dorris,12,Month-to-month,Electronic check,69.35833333333333,0,1,1,0.4828061813746045,1,0,515
+Creston,3,Month-to-month,Mailed check,69.13333333333334,1,1,1,0.48177861447887926,1,0,516
+San Gabriel,40,One year,Bank transfer (automatic),105.71375,0,0,0,0.4812924951198775,1,0,517
+Topaz,17,Month-to-month,Electronic check,45.32941176470588,0,1,1,0.47751795271153796,1,1,518
+Cazadero,6,Month-to-month,Electronic check,75.14999999999999,1,1,1,0.47737604065079825,1,0,519
+Albion,23,Month-to-month,Electronic check,92.05434782608695,0,1,1,0.47731970524503586,1,0,520
+Palo Alto,11,One year,Electronic check,42.78181818181818,0,0,1,0.4765114916826098,1,1,521
+Los Angeles,61,One year,Credit card (automatic),105.0,0,0,0,0.47632651674047294,1,1,522
+Atherton,49,One year,Credit card (automatic),36.36734693877551,0,0,0,0.4759367220939541,1,0,523
+Scotts Valley,9,Month-to-month,Electronic check,85.45555555555556,0,1,1,0.47477836527718464,1,0,524
+Spring Valley,22,Month-to-month,Electronic check,85.73863636363636,0,1,1,0.4732664918894322,1,0,525
+San Diego,61,Month-to-month,Credit card (automatic),96.6467213114754,0,1,0,0.4730108797272206,1,0,526
+Forest Ranch,41,Month-to-month,Credit card (automatic),77.82073170731708,0,1,0,0.4726534346115811,1,0,527
+Chico,65,One year,Electronic check,107.38153846153847,0,0,1,0.4717434232950146,1,1,528
+El Cajon,37,Month-to-month,Bank transfer (automatic),69.60675675675675,0,1,0,0.47043083492002635,1,0,529
+Palmdale,68,Month-to-month,Bank transfer (automatic),41.12279411764706,0,1,0,0.4678010440267352,1,0,530
+Fortuna,3,Month-to-month,Electronic check,89.48333333333333,1,1,1,0.466792933782766,1,0,531
+San Diego,24,Month-to-month,Mailed check,50.760416666666664,0,1,1,0.4664522837770831,1,0,532
+Long Beach,1,Month-to-month,Mailed check,19.9,1,1,1,0.46643415803714816,1,0,533
+Stockton,18,Month-to-month,Credit card (automatic),59.70277777777778,0,1,0,0.46574984896933447,1,0,534
+Corona,47,Month-to-month,Electronic check,109.10531914893616,0,1,1,0.46568085591433467,1,1,535
+Arnold,1,Month-to-month,Electronic check,18.85,1,1,1,0.4638798569833478,1,0,536
+Vallejo,25,Month-to-month,Electronic check,69.17399999999999,0,1,1,0.46149135047137485,1,0,537
+Arbuckle,61,One year,Electronic check,107.33934426229509,0,0,1,0.4614493451020948,1,1,538
+Piercy,57,One year,Credit card (automatic),105.0,0,0,0,0.4613622584852695,1,0,539
+Los Angeles,1,Month-to-month,Mailed check,20.3,1,1,1,0.4570777977977948,1,0,540
+Ivanhoe,1,Month-to-month,Bank transfer (automatic),20.2,1,1,0,0.4566607425728427,1,1,541
+Highland,2,Month-to-month,Mailed check,19.0,1,1,1,0.456232667494657,1,0,542
+San Gabriel,21,Month-to-month,Bank transfer (automatic),63.8,0,1,0,0.4558493847915933,1,0,543
+Valley Springs,60,One year,Electronic check,93.50416666666666,0,0,1,0.4554388237548413,1,1,544
+San Francisco,24,Month-to-month,Bank transfer (automatic),58.356249999999996,0,1,0,0.454932772201939,1,1,545
+Newport Beach,5,Month-to-month,Bank transfer (automatic),18.71,1,1,0,0.45477357133827884,1,0,546
+Los Angeles,8,Month-to-month,Credit card (automatic),79.1625,0,1,0,0.45475157306402064,1,1,547
+Sacramento,1,Month-to-month,Electronic check,20.55,1,1,1,0.4541307817792921,1,1,548
+Milford,38,Month-to-month,Electronic check,105.50526315789473,0,1,1,0.4526392681085174,1,0,549
+Valley Springs,3,Month-to-month,Electronic check,20.349999999999998,1,1,1,0.4524893996697435,1,0,550
+Lakehead,7,Month-to-month,Mailed check,59.42142857142857,0,1,1,0.45229126119518265,1,1,551
+Roseville,58,One year,Bank transfer (automatic),94.11724137931034,0,0,0,0.4521617095091367,1,0,552
+Penn Valley,4,Month-to-month,Electronic check,79.4375,1,1,1,0.45101809197739945,1,0,553
+Los Alamitos,1,Month-to-month,Mailed check,70.45,1,1,1,0.4505534318389146,1,1,554
+Campo Seco,19,Month-to-month,Mailed check,59.518421052631574,0,1,1,0.4500481101974636,1,0,555
+Santa Monica,4,Month-to-month,Credit card (automatic),37.825,1,1,0,0.4460281766568696,1,1,556
+Redwood City,30,Month-to-month,Credit card (automatic),89.32333333333332,0,1,0,0.44579973612480833,1,0,557
+Los Angeles,10,Month-to-month,Credit card (automatic),52.835,0,1,0,0.44462118409366364,1,1,558
+San Jose,30,One year,Bank transfer (automatic),100.71000000000001,0,0,0,0.4420812544485726,1,0,559
+San Diego,1,Month-to-month,Mailed check,24.2,1,1,1,0.44183749192789973,1,0,560
+Mount Laguna,59,One year,Bank transfer (automatic),68.99915254237288,0,0,0,0.4385011402854537,1,0,561
+Sunset Beach,4,Month-to-month,Credit card (automatic),57.3875,1,1,0,0.43769030659052927,1,1,562
+Concord,7,Month-to-month,Electronic check,39.892857142857146,0,1,1,0.4371710051070514,1,1,563
+Castroville,46,Month-to-month,Electronic check,99.23695652173912,0,1,1,0.4369371997272674,1,0,564
+Los Angeles,34,Month-to-month,Electronic check,104.38970588235294,0,1,1,0.4337131511049669,1,1,565
+Rancho Santa Fe,17,Month-to-month,Electronic check,78.18529411764706,0,1,1,0.43179713705673217,1,0,566
+Avery,18,Month-to-month,Mailed check,26.48888888888889,0,1,1,0.4317511068064013,1,0,567
+San Francisco,30,Month-to-month,Electronic check,99.15,0,1,1,0.43140423398473304,1,0,568
+San Diego,54,One year,Credit card (automatic),68.80833333333334,0,0,0,0.42940637431627265,1,1,569
+Valley Center,15,Month-to-month,Mailed check,20.626666666666665,0,1,1,0.42905789298969554,1,0,570
+Sacramento,1,Month-to-month,Electronic check,50.05,1,1,1,0.42693135468692445,1,0,571
+Castella,31,Two year,Bank transfer (automatic),79.7290322580645,0,0,0,0.4264724152340682,1,0,572
+Corning,5,Month-to-month,Credit card (automatic),18.41,1,1,0,0.4263338960996112,1,0,573
+Oceanside,35,One year,Electronic check,92.89428571428572,0,0,1,0.4263178434237274,1,0,574
+Upland,3,Month-to-month,Mailed check,81.48333333333333,1,1,1,0.4249763221356396,1,0,575
+Santa Barbara,46,Month-to-month,Bank transfer (automatic),53.78152173913043,0,1,0,0.4244666855871061,1,0,576
+Los Angeles,6,Month-to-month,Mailed check,20.608333333333334,1,1,1,0.4233950679257921,1,0,577
+San Gabriel,12,Month-to-month,Credit card (automatic),72.61666666666666,0,1,0,0.4210481640845391,1,1,578
+Tujunga,29,Month-to-month,Mailed check,42.84310344827586,0,1,1,0.42059577883506394,1,0,579
+Norco,12,Month-to-month,Mailed check,59.479166666666664,0,1,1,0.4197183822376385,1,1,580
+San Bernardino,15,Month-to-month,Electronic check,95.33666666666666,0,1,1,0.4184683838801628,1,0,581
+Grizzly Flats,72,Two year,Bank transfer (automatic),80.76597222222222,0,0,0,0.41631405808451005,1,0,582
+Strathmore,40,One year,Credit card (automatic),104.71,0,0,0,0.4144448351860608,1,0,583
+Forks Of Salmon,34,Month-to-month,Electronic check,103.74411764705883,0,1,1,0.4131481862807819,1,0,584
+San Francisco,53,One year,Credit card (automatic),109.16037735849056,0,0,0,0.41300165800307415,1,1,585
+Newport Coast,67,One year,Electronic check,111.67313432835822,0,0,1,0.41163508600110943,1,1,586
+Stockton,15,Month-to-month,Electronic check,49.12,0,1,1,0.41003413880233197,1,0,587
+San Diego,53,One year,Electronic check,91.91415094339622,0,0,1,0.40831975210923377,1,0,588
+Downey,7,Month-to-month,Bank transfer (automatic),50.728571428571435,0,1,0,0.40699217159845014,1,0,589
+Bieber,41,One year,Electronic check,50.61219512195122,0,0,1,0.401994299232732,1,0,590
+Scott Bar,33,Month-to-month,Electronic check,100.62424242424242,0,1,1,0.40102376412243956,1,0,591
+Mission Viejo,50,One year,Electronic check,97.17399999999999,0,0,1,0.40101940722808516,1,0,592
+Ione,2,Month-to-month,Mailed check,64.6,1,1,1,0.39980970563459617,0,0,593
+Salinas,2,Month-to-month,Mailed check,31.0,1,1,1,0.3990410055525961,0,0,594
+Cerritos,26,Month-to-month,Electronic check,63.55384615384616,0,1,1,0.3934046707180332,0,0,595
+Pixley,3,Month-to-month,Mailed check,26.083333333333332,1,1,1,0.3933826985050428,0,0,596
+Palermo,72,One year,Credit card (automatic),99.07083333333334,0,0,0,0.3924403772927309,0,0,597
+Campbell,63,Month-to-month,Credit card (automatic),107.62063492063493,0,1,0,0.39175602572539253,0,0,598
+San Diego,49,One year,Credit card (automatic),56.7469387755102,0,0,0,0.39168282734053356,0,0,599
+Brisbane,1,Month-to-month,Mailed check,19.4,1,1,1,0.39085870951844665,0,1,600
+Colusa,1,Month-to-month,Mailed check,19.8,1,1,1,0.38930627126186984,0,1,601
+Sequoia National Park,22,Month-to-month,Mailed check,53.57954545454545,0,1,1,0.38912035105538306,0,0,602
+Arnold,1,Month-to-month,Mailed check,19.95,1,1,1,0.38872468315816755,0,0,603
+Bella Vista,30,Month-to-month,Mailed check,49.163333333333334,0,1,1,0.3885477106778027,0,0,604
+Ahwahnee,1,Month-to-month,Mailed check,20.05,1,1,1,0.388337133566702,0,0,605
+Long Beach,40,One year,Credit card (automatic),101.55499999999999,0,0,0,0.38814442293816886,0,1,606
+Valley Center,10,Month-to-month,Electronic check,61.69,0,1,1,0.3869179928085392,0,0,607
+Hayward,7,Month-to-month,Electronic check,16.04285714285714,0,1,1,0.38515113924035704,0,1,608
+Farmersville,34,Month-to-month,Bank transfer (automatic),100.29411764705883,0,1,0,0.38241716093857514,0,0,609
+Livingston,3,Month-to-month,Mailed check,21.516666666666666,1,1,1,0.3815735833024333,0,1,610
+Pebble Beach,59,One year,Electronic check,86.18050847457627,0,0,1,0.38053580688708855,0,1,611
+Monterey Park,21,Month-to-month,Bank transfer (automatic),93.16190476190476,0,1,0,0.379662627274576,0,0,612
+Wilseyville,3,Month-to-month,Electronic check,46.800000000000004,1,1,1,0.37792439487906687,0,0,613
+Nevada City,1,Month-to-month,Mailed check,19.9,1,1,1,0.3777457312035512,0,0,614
+Sacramento,69,Month-to-month,Credit card (automatic),83.85,0,1,0,0.3773840292610476,0,0,615
+Lodi,72,Two year,Electronic check,113.40416666666667,0,0,1,0.37644755225628374,0,0,616
+Newman,46,Month-to-month,Electronic check,44.82934782608696,0,1,1,0.376051277894001,0,0,617
+Kyburz,1,Month-to-month,Mailed check,20.4,1,1,1,0.3758304637201254,0,1,618
+Oakland,1,Month-to-month,Credit card (automatic),20.75,1,1,0,0.37582007136584294,0,0,619
+Bieber,67,One year,Bank transfer (automatic),101.7455223880597,0,0,0,0.3738586570469644,0,0,620
+Stockton,4,One year,Electronic check,24.375,1,0,1,0.371530544919878,0,0,621
+Costa Mesa,35,One year,Credit card (automatic),88.86,0,0,0,0.3704701148144936,0,1,622
+Topanga,1,Month-to-month,Bank transfer (automatic),20.2,1,1,0,0.36852189849142303,0,1,623
+Crows Landing,3,Month-to-month,Mailed check,19.333333333333332,1,1,1,0.3684785841705645,0,0,624
+Van Nuys,3,Month-to-month,Credit card (automatic),22.366666666666664,1,1,0,0.3683155312563847,0,0,625
+Dos Palos,7,Month-to-month,Electronic check,70.07857142857144,0,1,1,0.3678034613834526,0,0,626
+Santa Barbara,46,One year,Bank transfer (automatic),89.70326086956523,0,0,0,0.36735751989091814,0,0,627
+Bishop,3,Month-to-month,Mailed check,67.63333333333334,1,1,1,0.3668810501249017,0,0,628
+Citrus Heights,32,Month-to-month,Electronic check,71.1546875,0,1,1,0.3661889629860309,0,1,629
+Oakland,59,One year,Credit card (automatic),111.14830508474576,0,0,0,0.3649959880717902,0,0,630
+Boulevard,22,One year,Mailed check,95.01136363636364,0,0,1,0.3642750179103052,0,0,631
+Oakland,4,Month-to-month,Mailed check,22.8625,1,1,1,0.36405801169258617,0,0,632
+Chatsworth,2,Month-to-month,Bank transfer (automatic),21.575,1,1,0,0.36152443342861756,0,0,633
+Encino,20,Month-to-month,Electronic check,95.08250000000001,0,1,1,0.3607312507026903,0,0,634
+Santa Ana,38,Month-to-month,Credit card (automatic),104.1236842105263,0,1,0,0.36028564513731925,0,0,635
+Bakersfield,35,Month-to-month,Electronic check,81.38428571428571,0,1,1,0.36007994281917305,0,0,636
+Oakland,12,One year,Mailed check,72.72083333333333,0,0,1,0.35888433082602333,0,1,637
+Lynwood,37,Two year,Mailed check,93.53918918918919,0,0,1,0.35785230434359494,0,0,638
+Los Angeles,1,Month-to-month,Electronic check,59.2,1,1,1,0.3533404961575747,0,1,639
+San Francisco,46,One year,Bank transfer (automatic),61.231521739130436,0,0,0,0.3521469657191231,0,1,640
+Spring Valley,54,Month-to-month,Credit card (automatic),90.17592592592592,0,1,0,0.35195728420813777,0,0,641
+Moreno Valley,20,One year,Credit card (automatic),90.91499999999999,0,0,0,0.3504060397832769,0,0,642
+Oakland,33,One year,Electronic check,92.5909090909091,0,0,1,0.3499294698858793,0,0,643
+Orosi,26,One year,Bank transfer (automatic),78.24038461538461,0,0,0,0.3493192098861385,0,0,644
+Taft,51,One year,Credit card (automatic),80.90588235294118,0,0,0,0.3491313761840938,0,0,645
+Harbor City,41,One year,Credit card (automatic),57.65853658536585,0,0,0,0.3457033409021716,0,0,646
+Deer Park,35,Month-to-month,Electronic check,73.38714285714286,0,1,1,0.34508826430550277,0,1,647
+Bieber,22,One year,Bank transfer (automatic),68.10000000000001,0,0,0,0.3450689318289872,0,1,648
+Stevinson,41,Month-to-month,Bank transfer (automatic),54.57439024390244,0,1,0,0.34222649649608794,0,0,649
+Lemoore,49,Month-to-month,Bank transfer (automatic),29.655102040816324,0,1,0,0.340381998284107,0,0,650
+Pasadena,34,Month-to-month,Electronic check,22.947058823529414,0,1,1,0.33999613463547046,0,0,651
+Santa Cruz,19,Month-to-month,Credit card (automatic),57.53684210526316,0,1,0,0.33861081376985647,0,0,652
+Sacramento,18,Month-to-month,Mailed check,66.63333333333334,0,1,1,0.3383035950039619,0,0,653
+San Mateo,0,Two year,Mailed check,0.0,1,0,1,0.33740686228145483,0,0,654
+Los Angeles,1,One year,Mailed check,18.8,1,0,1,0.3368957046072326,0,0,655
+Fresno,31,Month-to-month,Electronic check,55.343548387096774,0,1,1,0.3356618382529925,0,1,656
+Acton,29,Month-to-month,Electronic check,83.26034482758621,0,1,1,0.3351182637649061,0,0,657
+Palos Verdes Peninsula,22,Month-to-month,Electronic check,99.1159090909091,0,1,1,0.33451301772814296,0,0,658
+Corte Madera,43,Month-to-month,Bank transfer (automatic),97.90581395348836,0,1,0,0.3334482821579949,0,0,659
+Kingsburg,57,One year,Electronic check,91.22456140350877,0,0,1,0.33046151112523714,0,0,660
+Oak View,57,Month-to-month,Bank transfer (automatic),85.69912280701755,0,1,0,0.3277747941673409,0,0,661
+Gustine,39,One year,Mailed check,99.43461538461538,0,0,1,0.326679491547903,0,0,662
+Long Beach,8,Month-to-month,Electronic check,70.54375,0,1,1,0.3264771899744736,0,0,663
+Anza,52,Month-to-month,Bank transfer (automatic),83.20769230769231,0,1,0,0.3260027691075428,0,0,664
+Sacramento,23,One year,Mailed check,76.37391304347825,0,0,1,0.32562303690854,0,0,665
+El Cerrito,46,Month-to-month,Electronic check,105.7358695652174,0,1,1,0.3248040483664189,0,0,666
+Richmond,5,Month-to-month,Bank transfer (automatic),47.04,1,1,0,0.3233663948448284,0,0,667
+Carpinteria,61,One year,Electronic check,80.57049180327868,0,0,1,0.32294352894996686,0,0,668
+Twain Harte,17,Month-to-month,Mailed check,49.19705882352941,0,1,1,0.32169785400847856,0,0,669
+Farmington,29,Month-to-month,Electronic check,89.91724137931034,0,1,1,0.31986311953218327,0,0,670
+Simi Valley,7,Month-to-month,Electronic check,48.621428571428574,0,1,1,0.3196480874657568,0,0,671
+Berkeley,69,One year,Bank transfer (automatic),107.04420289855072,0,0,0,0.3179531784335002,0,0,672
+Mountain View,10,Month-to-month,Credit card (automatic),20.825,0,1,0,0.317523406856165,0,0,673
+Stanton,1,Month-to-month,Mailed check,19.75,1,1,1,0.3171464999825633,0,0,674
+Los Angeles,22,Month-to-month,Credit card (automatic),88.60909090909091,0,1,0,0.3168391804204284,0,0,675
+Long Beach,47,Month-to-month,Bank transfer (automatic),57.94468085106383,0,1,0,0.31482103354538243,0,0,676
+Mira Loma,1,Month-to-month,Mailed check,20.6,1,1,1,0.31415129222407295,0,0,677
+River Pines,9,Month-to-month,Electronic check,78.6888888888889,0,1,1,0.3134717127012234,0,0,678
+North Hollywood,18,Month-to-month,Mailed check,60.15555555555555,0,1,1,0.3120576363880917,0,0,679
+Lemoore,40,Month-to-month,Electronic check,52.322500000000005,0,1,1,0.3115666563511484,0,0,680
+Los Angeles,15,Month-to-month,Credit card (automatic),95.09333333333333,0,1,0,0.30829654877168455,0,1,681
+Antioch,10,One year,Mailed check,66.005,0,0,1,0.3072558603518998,0,0,682
+Escondido,9,Month-to-month,Mailed check,72.58333333333333,0,1,1,0.30691824253561484,0,0,683
+Valley Springs,56,One year,Bank transfer (automatic),109.10089285714285,0,0,0,0.3055972034028037,0,0,684
+San Jose,33,Month-to-month,Credit card (automatic),68.04242424242425,0,1,0,0.30432682176345266,0,0,685
+Vallecito,57,Two year,Credit card (automatic),54.21140350877193,0,0,0,0.30282366550465145,0,0,686
+Diamond Bar,21,Month-to-month,Electronic check,86.61428571428571,0,1,1,0.3020269167688596,0,0,687
+Newport Beach,9,Month-to-month,Mailed check,55.68888888888889,0,1,1,0.3017570606010437,0,0,688
+Covina,37,Month-to-month,Bank transfer (automatic),91.41351351351352,0,1,0,0.30068283670572254,0,0,689
+Glennville,3,Month-to-month,Electronic check,53.81666666666666,1,1,1,0.29991946096213645,0,0,690
+San Clemente,11,Month-to-month,Electronic check,69.09545454545454,0,1,1,0.29739853782064823,0,0,691
+Somerset,1,Month-to-month,Mailed check,45.8,1,1,1,0.29593484840359313,0,0,692
+San Diego,16,Month-to-month,Electronic check,87.390625,0,1,1,0.2959043618079928,0,0,693
+San Jose,25,Two year,Electronic check,112.36200000000001,0,0,1,0.29588469798698586,0,0,694
+Covina,42,One year,Electronic check,102.34404761904761,0,0,1,0.29460315098549794,0,0,695
+Angelus Oaks,8,One year,Bank transfer (automatic),17.61875,0,0,0,0.29424511881627713,0,0,696
+Glendale,33,One year,Credit card (automatic),74.34242424242424,0,0,0,0.29386359201837287,0,0,697
+Bodega Bay,35,Two year,Electronic check,115.01428571428572,0,0,1,0.2916403206581124,0,0,698
+Hopland,54,Month-to-month,Mailed check,86.42592592592592,0,1,1,0.29111241818934336,0,0,699
+Gerber,10,Month-to-month,Credit card (automatic),65.315,0,1,0,0.29075937723834205,0,0,700
+Yucca Valley,18,Month-to-month,Bank transfer (automatic),77.50277777777778,0,1,0,0.2892199303435952,0,0,701
+Torrance,55,Month-to-month,Electronic check,95.25272727272727,0,1,1,0.28894548758325217,0,1,702
+Pacific Grove,9,Month-to-month,Mailed check,20.62222222222222,0,1,1,0.2886495947379082,0,1,703
+Meadow Valley,38,One year,Bank transfer (automatic),68.3578947368421,0,0,0,0.28750605511956906,0,1,704
+Santa Clara,39,Month-to-month,Credit card (automatic),48.22692307692307,0,1,0,0.28749904371141205,0,1,705
+Duarte,11,One year,Mailed check,21.263636363636365,0,0,1,0.2868546016265534,0,0,706
+Indio,48,Two year,Bank transfer (automatic),105.57187499999999,0,0,0,0.2864408281693265,0,0,707
+Brookdale,4,Month-to-month,Mailed check,44.9625,1,1,1,0.2855755178051453,0,0,708
+Rancho Cucamonga,7,Month-to-month,Electronic check,67.52142857142857,0,1,1,0.2833097115506728,0,0,709
+El Dorado Hills,3,Month-to-month,Mailed check,51.51666666666667,1,1,1,0.28251715141165934,0,0,710
+Lucerne,33,Month-to-month,Bank transfer (automatic),105.00151515151515,0,1,0,0.28081078812898835,0,0,711
+Hydesville,60,One year,Bank transfer (automatic),65.47166666666666,0,0,0,0.2802409084110982,0,0,712
+Fresno,63,One year,Bank transfer (automatic),97.41269841269842,0,0,0,0.2767057299515997,0,1,713
+Los Altos,1,Month-to-month,Electronic check,20.7,1,1,1,0.2751459414186742,0,0,714
+Bakersfield,4,Month-to-month,Electronic check,15.75,1,1,1,0.2737910965867388,0,0,715
+Temecula,58,One year,Credit card (automatic),93.62672413793103,0,0,0,0.27302332142683156,0,0,716
+Bradley,7,One year,Electronic check,68.15,0,0,1,0.2728421634569286,0,0,717
+Bass Lake,10,Month-to-month,Mailed check,24.7,0,1,1,0.270207542128818,0,0,718
+Newport Beach,5,Month-to-month,Mailed check,44.339999999999996,1,1,1,0.26981702572156147,0,1,719
+Sugarloaf,55,One year,Mailed check,100.94636363636364,0,0,1,0.26934159839957494,0,0,720
+Dunlap,31,One year,Credit card (automatic),82.21451612903226,0,0,0,0.2686639236474715,0,0,721
+Sun Valley,61,One year,Electronic check,104.31885245901638,0,0,1,0.26758648531858875,0,0,722
+La Verne,57,Month-to-month,Electronic check,86.40964912280702,0,1,1,0.2651873721683245,0,0,723
+Placerville,10,One year,Electronic check,106.495,0,0,1,0.26392323933528483,0,0,724
+Anaheim,12,Month-to-month,Mailed check,19.462500000000002,0,1,1,0.263694114916746,0,1,725
+San Francisco,3,One year,Mailed check,17.349999999999998,1,0,1,0.26008591362772077,0,0,726
+Elmira,46,Month-to-month,Bank transfer (automatic),35.22282608695652,0,1,0,0.2592896275102449,0,0,727
+Los Angeles,12,Month-to-month,Mailed check,18.633333333333333,0,1,1,0.2565776143181737,0,0,728
+Fontana,18,Month-to-month,Credit card (automatic),78.14722222222223,0,1,0,0.2561583613774268,0,0,729
+Trinidad,1,One year,Mailed check,20.4,1,0,1,0.2560443043140153,0,0,730
+Los Angeles,21,Month-to-month,Mailed check,19.82857142857143,0,1,1,0.25580872441301883,0,0,731
+Farmersville,63,Two year,Electronic check,99.9484126984127,0,0,1,0.25519642060739167,0,0,732
+Los Alamos,63,Two year,Credit card (automatic),111.90079365079364,0,0,0,0.2540442531061679,0,0,733
+Glenn,59,Month-to-month,Electronic check,45.19915254237288,0,1,1,0.2527133937311413,0,0,734
+Seaside,53,One year,Mailed check,74.38584905660377,0,0,1,0.2520988791079911,0,0,735
+Napa,35,One year,Bank transfer (automatic),54.74285714285714,0,0,0,0.2512196732458786,0,0,736
+San Bernardino,2,One year,Credit card (automatic),14.15,1,0,0,0.24597852249371854,0,1,737
+Tarzana,29,One year,Electronic check,18.622413793103448,0,0,1,0.24506192829276424,0,0,738
+Beverly Hills,9,Month-to-month,Electronic check,95.25,0,1,1,0.24439100495326857,0,1,739
+Corona,19,Month-to-month,Mailed check,88.54736842105264,0,1,1,0.24435223340115916,0,0,740
+Riverside,30,Two year,Electronic check,72.725,0,0,1,0.24035289598936885,0,0,741
+Posey,57,One year,Electronic check,95.94649122807017,0,0,1,0.24021623954520238,0,0,742
+Rancho Cucamonga,51,One year,Electronic check,90.57941176470588,0,0,1,0.23666419153266824,0,0,743
+Cardiff By The Sea,51,One year,Credit card (automatic),111.49803921568626,0,0,0,0.23661274879548125,0,0,744
+Copperopolis,18,Month-to-month,Electronic check,81.59722222222223,0,1,1,0.23593696910850823,0,0,745
+San Diego,71,Two year,Electronic check,98.51549295774649,0,0,1,0.23472277521242715,0,0,746
+Jolon,32,One year,Credit card (automatic),18.365625,0,0,0,0.23456962225910868,0,0,747
+Crows Landing,18,Month-to-month,Mailed check,83.36111111111111,0,1,1,0.23357587700270271,0,0,748
+Dillon Beach,34,Month-to-month,Electronic check,93.83088235294117,0,1,1,0.23226224268466217,0,0,749
+Suisun City,15,Month-to-month,Credit card (automatic),86.84333333333333,0,1,0,0.2318627211154731,0,0,750
+Santa Rosa,48,One year,Credit card (automatic),60.34166666666667,0,0,0,0.23184380841921817,0,1,751
+Burbank,46,One year,Bank transfer (automatic),104.8445652173913,0,0,0,0.231334140037355,0,1,752
+Oxnard,62,One year,Electronic check,92.83548387096775,0,0,1,0.23124844103605977,0,0,753
+Niland,44,One year,Electronic check,63.05795454545455,0,0,1,0.2296816947059306,0,0,754
+Torrance,50,One year,Bank transfer (automatic),52.282,0,0,0,0.2284676999115032,0,0,755
+Sacramento,9,One year,Mailed check,41.44444444444444,0,0,1,0.22814200690507852,0,0,756
+Loleta,13,Month-to-month,Mailed check,21.484615384615385,0,1,1,0.22507122528602078,0,0,757
+Rancho Santa Margarita,55,One year,Credit card (automatic),83.45181818181818,0,0,0,0.22363422256224721,0,0,758
+Novato,49,One year,Credit card (automatic),21.062244897959182,0,0,0,0.2234208729902509,0,0,759
+San Diego,72,Two year,Mailed check,112.1576388888889,0,0,1,0.22332640828960273,0,0,760
+Vacaville,1,Month-to-month,Mailed check,20.25,1,1,1,0.2224704536854417,0,1,761
+Stockton,60,Two year,Electronic check,105.56333333333333,0,0,1,0.22228594048738382,0,0,762
+Pasadena,7,Month-to-month,Bank transfer (automatic),71.94285714285715,0,1,0,0.22197404290148418,0,1,763
+Emeryville,71,One year,Electronic check,21.68661971830986,0,0,1,0.2215748299703765,0,0,764
+San Francisco,19,One year,Bank transfer (automatic),64.83421052631579,0,0,0,0.2199666663591862,0,0,765
+El Dorado Hills,55,Month-to-month,Electronic check,75.36181818181818,0,1,1,0.2199666634357799,0,0,766
+Parlier,35,Month-to-month,Electronic check,56.645714285714284,0,1,1,0.21926014039355995,0,0,767
+Moreno Valley,26,One year,Mailed check,59.73846153846154,0,0,1,0.21695336336442894,0,0,768
+Lamont,20,One year,Bank transfer (automatic),92.975,0,0,0,0.21623438181604915,0,0,769
+San Diego,49,One year,Electronic check,92.24795918367346,0,0,1,0.21583189880933545,0,0,770
+Whittier,37,Month-to-month,Electronic check,77.51756756756757,0,1,1,0.21535446418900164,0,1,771
+Morro Bay,5,Month-to-month,Mailed check,57.36,1,1,1,0.21504372829101834,0,0,772
+Twin Bridges,26,Month-to-month,Credit card (automatic),90.37692307692308,0,1,0,0.21393844497463588,0,0,773
+Los Osos,1,Month-to-month,Mailed check,45.95,1,1,1,0.21232977102003722,0,1,774
+Sacramento,62,One year,Bank transfer (automatic),92.44274193548387,0,0,0,0.21176965412539842,0,0,775
+Torrance,44,Two year,Bank transfer (automatic),54.32840909090908,0,0,0,0.21143644328203526,0,0,776
+Death Valley,40,Month-to-month,Credit card (automatic),78.17125,0,1,0,0.21071139474444725,0,0,777
+Huron,68,One year,Bank transfer (automatic),83.77352941176471,0,0,0,0.2102093468024141,0,0,778
+Riverside,31,Month-to-month,Credit card (automatic),64.33225806451613,0,1,0,0.20950220645847417,0,1,779
+Mccloud,26,Month-to-month,Electronic check,75.36538461538461,0,1,1,0.2089545408407964,0,0,780
+San Jacinto,12,Month-to-month,Credit card (automatic),22.120833333333334,0,1,0,0.20860274381630683,0,0,781
+San Francisco,34,One year,Bank transfer (automatic),80.21470588235294,0,0,0,0.2079282442130442,0,0,782
+Cazadero,20,Month-to-month,Bank transfer (automatic),110.18499999999999,0,1,0,0.20635440248486833,0,0,783
+Samoa,39,One year,Electronic check,98.3474358974359,0,0,1,0.20533076885886892,0,0,784
+Clearlake Oaks,61,Two year,Bank transfer (automatic),79.68606557377049,0,0,0,0.205054240076503,0,0,785
+Los Molinos,70,One year,Credit card (automatic),113.84071428571428,0,0,0,0.20488786658128758,0,1,786
+Encino,26,Month-to-month,Bank transfer (automatic),44.482692307692304,0,1,0,0.2043142080531866,0,0,787
+San Francisco,53,Month-to-month,Bank transfer (automatic),111.98301886792453,0,1,0,0.20285028673297723,0,0,788
+Norco,20,Month-to-month,Credit card (automatic),17.807499999999997,0,1,0,0.20164158012557315,0,0,789
+Igo,12,Month-to-month,Mailed check,52.387499999999996,0,1,1,0.19761822263785755,0,0,790
+Forest Ranch,28,Month-to-month,Bank transfer (automatic),54.19642857142857,0,1,0,0.19741172324986947,0,0,791
+Tracy,50,One year,Electronic check,104.626,0,0,1,0.19613859075817422,0,0,792
+Death Valley,60,Month-to-month,Bank transfer (automatic),109.5475,0,1,0,0.19602990834335673,0,0,793
+San Fernando,13,Month-to-month,Credit card (automatic),79.53461538461539,0,1,0,0.19554882352003963,0,0,794
+Camp Nelson,35,One year,Mailed check,39.53142857142857,0,0,1,0.19495276096172878,0,0,795
+Hercules,1,Month-to-month,Mailed check,25.75,1,1,1,0.19397748895390973,0,0,796
+Doyle,52,Month-to-month,Bank transfer (automatic),48.760576923076925,0,1,0,0.19298344936930903,0,0,797
+San Jose,10,One year,Mailed check,68.55499999999999,0,0,1,0.19109545245436074,0,0,798
+Sacramento,23,Month-to-month,Electronic check,20.604347826086954,0,1,1,0.19071852007598955,0,0,799
+Mad River,24,Month-to-month,Electronic check,87.79791666666667,0,1,1,0.19064183473373703,0,0,800
+Gardena,31,Month-to-month,Electronic check,69.94032258064516,0,1,1,0.19016739247666242,0,0,801
+Pioneertown,44,Month-to-month,Credit card (automatic),82.41704545454546,0,1,0,0.18936242504411643,0,0,802
+Los Angeles,42,Month-to-month,Bank transfer (automatic),60.394047619047626,0,1,0,0.18804493641142117,0,0,803
+Redwood City,63,One year,Credit card (automatic),78.81111111111112,0,0,0,0.18545795332681353,0,0,804
+San Diego,28,Month-to-month,Mailed check,50.36607142857143,0,1,1,0.18515050475766387,0,0,805
+Winterhaven,70,Month-to-month,Electronic check,107.915,0,1,1,0.18431783552575784,0,0,806
+Emeryville,71,Two year,Mailed check,78.66760563380281,0,0,1,0.1818411412232482,0,0,807
+Santa Cruz,46,Month-to-month,Electronic check,18.504347826086956,0,1,1,0.181338304383981,0,0,808
+Dixon,25,Month-to-month,Credit card (automatic),21.284000000000002,0,1,0,0.18046347330203683,0,0,809
+Earp,48,Month-to-month,Electronic check,92.61041666666667,0,1,1,0.17920788470465354,0,0,810
+Fields Landing,59,Two year,Electronic check,111.20762711864407,0,0,1,0.17843887526521826,0,0,811
+Murrieta,58,Two year,Credit card (automatic),110.2353448275862,0,0,0,0.17666405474552047,0,0,812
+Cazadero,52,Month-to-month,Credit card (automatic),97.85384615384615,0,1,0,0.17653720165967599,0,0,813
+Fort Bidwell,70,Two year,Bank transfer (automatic),75.22214285714286,0,0,0,0.17590008315741082,0,0,814
+San Jose,52,Two year,Credit card (automatic),88.03365384615384,0,0,0,0.17581497599953988,0,0,815
+Fremont,72,Two year,Bank transfer (automatic),92.19305555555555,0,0,0,0.17567661212944896,0,0,816
+Anaheim,41,One year,Credit card (automatic),78.32195121951219,0,0,0,0.17469841402883213,0,0,817
+San Jose,25,One year,Bank transfer (automatic),64.44,0,0,0,0.17387867439633198,0,0,818
+Compton,7,Month-to-month,Mailed check,24.714285714285715,0,1,1,0.17379036291135755,0,0,819
+Callahan,53,One year,Credit card (automatic),95.14622641509433,0,0,0,0.17373660864150217,0,0,820
+San Diego,53,Month-to-month,Electronic check,87.09622641509435,0,1,1,0.1714942480066928,0,0,821
+Landers,23,Month-to-month,Credit card (automatic),74.0391304347826,0,1,0,0.17104472748055788,0,0,822
+Sunland,43,One year,Bank transfer (automatic),82.30813953488372,0,0,0,0.17102308501502558,0,0,823
+Hilmar,1,One year,Mailed check,25.85,1,0,1,0.16952652923035438,0,0,824
+Shoshone,35,Month-to-month,Electronic check,78.49142857142857,0,1,1,0.1685837438049178,0,0,825
+Beverly Hills,46,One year,Electronic check,95.8358695652174,0,0,1,0.1684712072907259,0,0,826
+Monterey,35,Month-to-month,Electronic check,69.11428571428571,0,1,1,0.1665211342584151,0,0,827
+Sun City,55,Month-to-month,Bank transfer (automatic),85.69818181818181,0,1,0,0.16573470205779275,0,0,828
+Woodland Hills,4,Month-to-month,Electronic check,42.4125,1,1,1,0.16457388423784935,0,0,829
+Nicolaus,59,Two year,Electronic check,95.85508474576271,0,0,1,0.16426546369927153,0,0,830
+Auburn,30,Month-to-month,Credit card (automatic),52.05,0,1,0,0.16316137886575402,0,1,831
+Long Beach,7,Two year,Mailed check,40.0,0,0,1,0.1626630840694301,0,0,832
+Grand Terrace,41,Month-to-month,Electronic check,104.44878048780487,0,1,1,0.16037801620450717,0,0,833
+Montebello,67,Two year,Electronic check,95.04776119402985,0,0,1,0.15977059649871908,0,0,834
+Palm Springs,34,Month-to-month,Mailed check,19.8,0,1,1,0.15923859698516604,0,0,835
+San Bernardino,21,One year,Mailed check,63.65714285714286,0,0,1,0.1589259610517787,0,0,836
+Rancho Santa Fe,47,One year,Electronic check,100.65106382978725,0,0,1,0.1585371806823973,0,0,837
+Sebastopol,18,One year,Credit card (automatic),90.72222222222223,0,0,0,0.15678849873646397,0,0,838
+Carmel By The Sea,26,One year,Bank transfer (automatic),73.39807692307691,0,0,0,0.15571437972675292,0,0,839
+Palmdale,18,One year,Mailed check,22.61388888888889,0,0,1,0.1552736923105372,0,0,840
+Newbury Park,5,Month-to-month,Mailed check,86.9,1,1,1,0.15479009329299354,0,0,841
+El Centro,26,One year,Credit card (automatic),37.63846153846154,0,0,0,0.1541120010896115,0,0,842
+Solana Beach,41,One year,Credit card (automatic),21.097560975609756,0,0,0,0.15364461285174683,0,0,843
+Aromas,68,Two year,Bank transfer (automatic),87.85735294117647,0,0,0,0.15361013122491152,0,0,844
+Martinez,33,Two year,Credit card (automatic),25.033333333333335,0,0,0,0.15096061505808087,0,0,845
+Madera,36,One year,Credit card (automatic),19.329166666666666,0,0,0,0.15037068920744598,0,0,846
+Macdoel,16,Month-to-month,Electronic check,54.709375,0,1,1,0.14977170669148518,0,0,847
+Igo,46,One year,Credit card (automatic),70.76847826086956,0,0,0,0.14947033282527283,0,0,848
+Bolinas,8,One year,Bank transfer (automatic),55.96875,0,0,0,0.14842918733924887,0,0,849
+El Segundo,3,Month-to-month,Bank transfer (automatic),59.13333333333333,1,1,0,0.14822951530064876,0,0,850
+Kelseyville,62,One year,Electronic check,101.82096774193548,0,0,1,0.14702454207430415,0,0,851
+El Nido,1,Month-to-month,Credit card (automatic),19.75,1,1,0,0.14664820227951628,0,0,852
+Biggs,1,Month-to-month,Mailed check,19.55,1,1,1,0.14634778871030163,0,0,853
+San Jose,23,One year,Mailed check,66.68695652173913,0,0,1,0.14627361454044008,0,0,854
+Hayward,3,Month-to-month,Mailed check,20.216666666666665,1,1,1,0.1450479930682542,0,0,855
+Lytle Creek,72,Two year,Credit card (automatic),114.45625000000001,0,0,0,0.14447839043160882,0,0,856
+Occidental,1,One year,Credit card (automatic),74.1,1,0,0,0.14416369094808174,0,0,857
+Mt Baldy,8,Month-to-month,Bank transfer (automatic),71.64375,0,1,0,0.14386425982533027,0,0,858
+Milpitas,67,Two year,Electronic check,109.26940298507463,0,0,1,0.14305361504109346,0,0,859
+Fowler,70,Two year,Credit card (automatic),77.30571428571427,0,0,0,0.1427546275071192,0,0,860
+French Gulch,2,Month-to-month,Mailed check,21.225,1,1,1,0.1425451962261929,0,0,861
+Granite Bay,8,One year,Credit card (automatic),19.24375,0,0,0,0.14252047351399735,0,0,862
+Graton,49,Two year,Credit card (automatic),49.18163265306123,0,0,0,0.14230387460227623,0,0,863
+Vacaville,10,Month-to-month,Mailed check,18.735,0,1,1,0.14209171189867684,0,0,864
+Long Beach,29,Month-to-month,Mailed check,35.35,0,1,1,0.1412501993669697,0,0,865
+Santa Clarita,51,One year,Bank transfer (automatic),24.719607843137254,0,0,0,0.1409692035292741,0,0,866
+Danville,32,Month-to-month,Electronic check,85.1171875,0,1,1,0.1394756390095996,0,0,867
+Carmel By The Sea,64,Two year,Credit card (automatic),110.45703125,0,0,0,0.1380793759968917,0,0,868
+Patterson,62,Month-to-month,Credit card (automatic),69.36209677419355,0,1,0,0.13743851169145463,0,0,869
+Corona,61,Month-to-month,Credit card (automatic),93.96475409836066,0,1,0,0.1374369259361378,0,0,870
+Inglewood,1,Month-to-month,Electronic check,19.45,1,1,1,0.1373911001220049,0,0,871
+Benicia,9,Month-to-month,Mailed check,51.84444444444445,0,1,1,0.1368824229438199,0,0,872
+Colfax,10,One year,Mailed check,18.44,0,0,1,0.13666008880806177,0,0,873
+Salinas,2,Month-to-month,Electronic check,17.925,1,1,1,0.13642703484115984,0,1,874
+Calistoga,72,Two year,Electronic check,118.00972222222224,0,0,1,0.13525800634148555,0,0,875
+Downey,1,Month-to-month,Mailed check,19.4,1,1,1,0.13514825906979758,0,0,876
+Cupertino,55,Two year,Bank transfer (automatic),55.38909090909091,0,0,0,0.13384011752585362,0,1,877
+Poway,70,Two year,Bank transfer (automatic),97.99285714285715,0,0,0,0.13366603513485212,0,1,878
+San Jose,13,Month-to-month,Mailed check,62.83076923076923,0,1,1,0.13346928256464452,0,0,879
+Barstow,72,Two year,Credit card (automatic),117.6138888888889,0,0,0,0.13335871853292997,0,0,880
+South Gate,54,One year,Electronic check,100.68703703703704,0,0,1,0.13093464815680506,0,0,881
+Stockton,21,One year,Bank transfer (automatic),73.79761904761905,0,0,0,0.1305507823004666,0,0,882
+Big Pine,72,Two year,Bank transfer (automatic),113.83888888888889,0,0,0,0.1303089778038271,0,0,883
+Avila Beach,43,One year,Bank transfer (automatic),100.09302325581395,0,0,0,0.12967997940190912,0,0,884
+Richvale,5,Month-to-month,Credit card (automatic),64.08,1,1,0,0.1295466051599519,0,0,885
+Redway,50,One year,Mailed check,34.978,0,0,1,0.12914145678051112,0,0,886
+Fresno,29,Month-to-month,Credit card (automatic),20.7448275862069,0,1,0,0.12910936508686152,0,0,887
+Los Angeles,72,Two year,Credit card (automatic),116.32013888888888,0,0,0,0.12866007600658247,0,0,888
+Brentwood,22,Month-to-month,Electronic check,85.68863636363636,0,1,1,0.12836056393733986,0,0,889
+Bodega Bay,52,One year,Credit card (automatic),83.73942307692307,0,0,0,0.1281280094750073,0,0,890
+Yucca Valley,12,One year,Electronic check,61.94166666666666,0,0,1,0.12762745513158993,0,0,891
+Rancho Cucamonga,16,Month-to-month,Electronic check,67.73125,0,1,1,0.12696302133515158,0,0,892
+Irvine,57,One year,Bank transfer (automatic),68.65438596491228,0,0,0,0.126914514701767,0,1,893
+Rancho Cordova,56,Two year,Credit card (automatic),60.52232142857143,0,0,0,0.12683221923834592,0,0,894
+Etna,39,One year,Bank transfer (automatic),45.91282051282051,0,0,0,0.12575441524377992,0,0,895
+Echo Lake,72,Two year,Bank transfer (automatic),115.45486111111111,0,0,0,0.1252301205164478,0,0,896
+Markleeville,4,Month-to-month,Mailed check,55.9375,1,1,1,0.12521389622813683,0,0,897
+Long Beach,6,Month-to-month,Mailed check,18.916666666666668,1,1,1,0.12394313865122274,0,0,898
+Buellton,61,Two year,Bank transfer (automatic),25.49016393442623,0,0,0,0.12350973631255671,0,0,899
+Borrego Springs,40,Month-to-month,Mailed check,53.48,0,1,1,0.12274973827387659,0,1,900
+Los Angeles,43,Month-to-month,Credit card (automatic),28.46627906976744,0,1,0,0.12047711635559676,0,0,901
+Greenwood,68,Two year,Bank transfer (automatic),105.4875,0,0,0,0.12008187029814442,0,0,902
+Cassel,64,Two year,Credit card (automatic),103.21171875,0,0,0,0.11953354750470795,0,0,903
+Brawley,67,Two year,Credit card (automatic),106.80895522388059,0,0,0,0.1175434372823577,0,1,904
+Los Angeles,69,Two year,Credit card (automatic),97.73260869565217,0,0,0,0.11611686904180504,0,0,905
+Patterson,32,One year,Electronic check,94.4953125,0,0,1,0.11561709188194086,0,0,906
+Mccloud,6,Month-to-month,Credit card (automatic),45.541666666666664,1,1,0,0.11538768429794485,0,0,907
+Monrovia,8,Month-to-month,Credit card (automatic),51.45,0,1,0,0.115353393634988,0,0,908
+Coulterville,61,Month-to-month,Mailed check,90.17377049180328,0,1,1,0.1142001920118385,0,0,909
+El Cajon,62,Month-to-month,Credit card (automatic),97.08629032258065,0,1,0,0.11359843490189936,0,0,910
+Glendora,7,One year,Mailed check,21.428571428571427,0,0,1,0.11304632388204204,0,0,911
+La Habra,67,One year,Bank transfer (automatic),99.83582089552239,0,0,0,0.11238730205265457,0,0,912
+Kettleman City,2,Month-to-month,Mailed check,22.1,1,1,1,0.11228900634396682,0,0,913
+Soquel,1,Month-to-month,Bank transfer (automatic),19.65,1,1,0,0.11207382381782852,0,0,914
+Imperial Beach,38,Month-to-month,Electronic check,18.876315789473683,0,1,1,0.11194635643100719,0,0,915
+Bass Lake,14,Month-to-month,Credit card (automatic),58.917857142857144,0,1,0,0.11163172272297942,0,0,916
+Stonyford,64,Month-to-month,Mailed check,74.4375,0,1,1,0.11089508553665497,0,0,917
+Thermal,18,Month-to-month,Mailed check,19.833333333333332,0,1,1,0.11049349083714667,0,0,918
+Los Angeles,69,One year,Credit card (automatic),55.13623188405797,0,0,0,0.11046288928748166,0,0,919
+Bradley,72,Two year,Mailed check,23.762500000000003,0,0,1,0.11034906719068942,0,0,920
+Springville,16,Month-to-month,Bank transfer (automatic),51.56875,0,1,0,0.1084899515343329,0,0,921
+San Gregorio,2,Month-to-month,Mailed check,13.775,1,1,1,0.10753662230852895,0,0,922
+Kingsburg,72,Two year,Bank transfer (automatic),75.95069444444444,0,0,0,0.10742195867536132,0,0,923
+Pleasanton,29,Two year,Mailed check,17.99310344827586,0,0,1,0.106458800285225,0,0,924
+San Francisco,16,One year,Mailed check,20.415625,0,0,1,0.10610903411916676,0,0,925
+Sacramento,70,One year,Electronic check,106.79785714285715,0,0,1,0.10605797514963233,0,0,926
+Reedley,1,Month-to-month,Credit card (automatic),20.3,1,1,0,0.10576307972071061,0,0,927
+Idyllwild,17,One year,Bank transfer (automatic),20.679411764705883,0,0,0,0.10568934768995515,0,0,928
+Palm Springs,30,One year,Bank transfer (automatic),20.283333333333335,0,0,0,0.10552881661421572,0,0,929
+Blythe,37,One year,Bank transfer (automatic),63.4554054054054,0,0,0,0.10463944660610545,0,0,930
+Los Alamitos,52,One year,Mailed check,37.67211538461539,0,0,1,0.10432906238808085,0,0,931
+Independence,0,Two year,Mailed check,0.0,1,0,1,0.10323303771450201,0,0,932
+Esparto,9,Month-to-month,Electronic check,71.94444444444444,0,1,1,0.1016225379409407,0,0,933
+Callahan,50,Two year,Mailed check,80.484,0,0,1,0.10138613168218347,0,0,934
+Trinity Center,72,Two year,Credit card (automatic),103.44027777777778,0,0,0,0.10030799051201829,0,0,935
+Suisun City,20,Month-to-month,Credit card (automatic),58.277499999999996,0,1,0,0.09991637421675674,0,0,936
+Norwalk,28,Month-to-month,Credit card (automatic),53.75535714285714,0,1,0,0.09905153588922863,0,0,937
+San Jose,19,Month-to-month,Electronic check,68.30526315789473,0,1,1,0.0989723172278984,0,0,938
+Anaheim,23,Two year,Mailed check,61.48695652173913,0,0,1,0.09894510987649392,0,0,939
+Garden Grove,34,One year,Mailed check,61.43382352941177,0,0,1,0.09855952722138188,0,1,940
+Citrus Heights,20,Month-to-month,Bank transfer (automatic),18.7625,0,1,0,0.09811148582922141,0,0,941
+Claremont,59,Two year,Mailed check,111.10508474576271,0,0,1,0.09802331650249031,0,0,942
+San Ysidro,41,One year,Bank transfer (automatic),61.25121951219513,0,0,0,0.097722669872603,0,0,943
+Woodland,46,Two year,Mailed check,38.15978260869565,0,0,1,0.09757964767034963,0,0,944
+Santa Monica,44,One year,Bank transfer (automatic),74.27386363636364,0,0,0,0.09743729417586718,0,0,945
+North San Juan,14,Month-to-month,Bank transfer (automatic),47.457142857142856,0,1,0,0.09711263129754084,0,0,946
+Lemon Cove,42,One year,Credit card (automatic),65.79404761904762,0,0,0,0.09710832183898178,0,0,947
+San Diego,37,One year,Electronic check,41.225675675675674,0,0,1,0.09709407900701679,0,0,948
+French Camp,65,One year,Bank transfer (automatic),104.10923076923078,0,0,0,0.09668235962726207,0,0,949
+Knights Landing,67,One year,Bank transfer (automatic),49.57238805970149,0,0,0,0.09583260307901625,0,0,950
+Arcata,25,One year,Electronic check,56.926,0,0,1,0.09570510800402092,0,0,951
+Stockton,69,Two year,Credit card (automatic),108.22536231884058,0,0,0,0.09563343265912494,0,0,952
+Nipton,22,Month-to-month,Electronic check,81.39318181818182,0,1,1,0.09550510617359836,0,0,953
+San Jose,64,Month-to-month,Electronic check,80.23984375,0,1,1,0.0950173983435046,0,0,954
+Corona,46,Two year,Electronic check,106.59130434782608,0,0,1,0.09458427941453329,0,0,955
+Moreno Valley,72,Two year,Credit card (automatic),87.52361111111111,0,0,0,0.09443207349434,0,0,956
+Blocksburg,28,Month-to-month,Bank transfer (automatic),58.801785714285714,0,1,0,0.09379563055062225,0,0,957
+San Lorenzo,24,One year,Bank transfer (automatic),25.21875,0,0,0,0.09337876009493432,0,0,958
+Whittier,37,Month-to-month,Bank transfer (automatic),21.762162162162163,0,1,0,0.09282977610604175,0,0,959
+Morgan Hill,70,Two year,Credit card (automatic),64.61785714285715,0,0,0,0.09080882661473431,0,0,960
+Topanga,28,One year,Bank transfer (automatic),99.96428571428571,0,0,0,0.09071143888767445,0,0,961
+Ben Lomond,58,One year,Credit card (automatic),25.82586206896552,0,0,0,0.0906494544362594,0,0,962
+Sacramento,37,Two year,Credit card (automatic),35.5918918918919,0,0,0,0.09023525056157038,0,0,963
+Ridgecrest,67,Two year,Mailed check,19.571641791044776,0,0,1,0.0897713063195144,0,0,964
+San Diego,49,Two year,Mailed check,48.946938775510205,0,0,1,0.08970418901103636,0,0,965
+Hemet,64,One year,Mailed check,70.0109375,0,0,1,0.08962756182761268,0,0,966
+Elk Grove,51,Two year,Mailed check,20.444117647058825,0,0,1,0.08941966762421324,0,0,967
+Washington,67,One year,Credit card (automatic),109.6186567164179,0,0,0,0.08828268467602227,0,0,968
+Watsonville,26,One year,Credit card (automatic),22.903846153846153,0,0,0,0.08808165862966945,0,0,969
+Cobb,55,Two year,Credit card (automatic),87.36909090909091,0,0,0,0.0880479344107654,0,0,970
+Winton,13,One year,Mailed check,20.784615384615385,0,0,1,0.0878294347261964,0,0,971
+Sacramento,72,Two year,Bank transfer (automatic),101.73750000000001,0,0,0,0.08724515689055898,0,0,972
+Los Angeles,42,One year,Mailed check,22.811904761904763,0,0,1,0.08681935195758624,0,0,973
+Santa Clara,32,Month-to-month,Bank transfer (automatic),63.9234375,0,1,0,0.08655570329194931,0,0,974
+San Jose,39,Two year,Credit card (automatic),56.42820512820512,0,0,0,0.08636562277422112,0,0,975
+Glencoe,72,Two year,Credit card (automatic),109.09583333333333,0,0,0,0.0859800266814187,0,0,976
+Crescent Mills,60,One year,Mailed check,80.01833333333335,0,0,1,0.08566504284304799,0,0,977
+Studio City,49,Month-to-month,Bank transfer (automatic),42.26020408163265,0,1,0,0.08353695651774617,0,0,978
+Santa Barbara,10,One year,Mailed check,41.144999999999996,0,0,1,0.0832835693091341,0,0,979
+Torrance,30,Month-to-month,Bank transfer (automatic),64.11666666666666,0,1,0,0.08260230683261831,0,0,980
+Redondo Beach,26,One year,Electronic check,60.84423076923077,0,0,1,0.08226691614063278,0,0,981
+Pioneer,68,Two year,Credit card (automatic),107.04926470588236,0,0,0,0.08216453819986834,0,0,982
+Sacramento,41,One year,Bank transfer (automatic),49.4890243902439,0,0,0,0.08147928169866055,0,0,983
+Hornbrook,47,One year,Electronic check,93.43510638297872,0,0,1,0.0813129356202703,0,0,984
+Chula Vista,56,One year,Credit card (automatic),71.67857142857143,0,0,0,0.08076574636534045,0,0,985
+Placentia,72,Two year,Bank transfer (automatic),93.54236111111112,0,0,0,0.07989107603738607,0,0,986
+Topaz,24,Month-to-month,Electronic check,54.99375,0,1,1,0.07974524060012969,0,0,987
+Carlotta,24,One year,Electronic check,56.12083333333334,0,0,1,0.07930527928295232,0,0,988
+San Diego,33,Month-to-month,Bank transfer (automatic),25.40909090909091,0,1,0,0.07911142139991778,0,0,989
+Glenhaven,7,Month-to-month,Mailed check,18.650000000000002,0,1,1,0.07882605115849123,0,0,990
+Monterey Park,63,One year,Credit card (automatic),82.92857142857143,0,0,0,0.07843050295101411,0,0,991
+Gilroy,22,Month-to-month,Mailed check,57.809090909090905,0,1,1,0.07837306326600349,0,0,992
+Stockton,57,Two year,Bank transfer (automatic),75.74298245614035,0,0,0,0.0780253218034013,0,0,993
+Fortuna,7,Month-to-month,Mailed check,21.071428571428573,0,1,1,0.07794645815632635,0,0,994
+Los Angeles,63,One year,Credit card (automatic),70.61587301587302,0,0,0,0.07751680234371905,0,0,995
+Sylmar,70,Two year,Bank transfer (automatic),113.41785714285714,0,0,0,0.07666767261727048,0,0,996
+Hood,61,One year,Bank transfer (automatic),100.74098360655738,0,0,0,0.07662510941430528,0,0,997
+Potter Valley,59,One year,Electronic check,79.5457627118644,0,0,1,0.07661982179054547,0,0,998
+Hornbrook,30,One year,Credit card (automatic),76.95333333333333,0,0,0,0.07660328947845561,0,0,999
+Fawnskin,72,Two year,Bank transfer (automatic),105.71597222222222,0,0,0,0.07656972721263047,0,0,1000
+Santa Barbara,13,Two year,Mailed check,20.442307692307693,0,0,1,0.07602282029499968,0,0,1001
+Monte Rio,72,Two year,Electronic check,101.19027777777778,0,0,1,0.07551431715899239,0,0,1002
+Mad River,22,Month-to-month,Mailed check,64.88863636363637,0,1,1,0.07523422025261428,0,0,1003
+Dunsmuir,17,One year,Credit card (automatic),19.876470588235293,0,0,0,0.07464764095788459,0,0,1004
+Corona,1,Month-to-month,Mailed check,51.2,1,1,1,0.0744574202789631,0,0,1005
+Paramount,42,Month-to-month,Bank transfer (automatic),72.81666666666668,0,1,0,0.07433727971427283,0,0,1006
+San Francisco,61,One year,Electronic check,65.00081967213114,0,0,1,0.07420150138227222,0,0,1007
+Carson,28,One year,Bank transfer (automatic),82.88571428571429,0,0,0,0.07375099628614333,0,0,1008
+Inglewood,50,Two year,Bank transfer (automatic),86.09,0,0,0,0.0736782583580141,0,0,1009
+Sacramento,17,One year,Mailed check,20.802941176470586,0,0,1,0.07351367827722503,0,0,1010
+Los Angeles,49,One year,Bank transfer (automatic),18.385714285714286,0,0,0,0.07302734933543464,0,0,1011
+Murrieta,71,Two year,Credit card (automatic),90.63732394366197,0,0,0,0.07234737752756513,0,0,1012
+Topaz,71,Two year,Electronic check,82.14999999999999,0,0,1,0.07226898539185407,0,0,1013
+San Bernardino,72,Two year,Bank transfer (automatic),86.13819444444444,0,0,0,0.0722472473421132,0,0,1014
+Sacramento,36,One year,Mailed check,18.520833333333332,0,0,1,0.0720411654420536,0,0,1015
+Huntington Beach,51,Two year,Credit card (automatic),80.18529411764706,0,0,0,0.07126205728116007,0,0,1016
+Fort Bragg,32,One year,Bank transfer (automatic),62.8421875,0,0,0,0.07084329337125896,0,0,1017
+Santa Cruz,42,One year,Mailed check,19.985714285714284,0,0,1,0.07060214066914605,0,0,1018
+San Francisco,38,One year,Mailed check,17.847368421052632,0,0,1,0.0705727837773828,0,0,1019
+Whittier,27,One year,Mailed check,21.6037037037037,0,0,1,0.0696152258313855,0,0,1020
+Downey,48,Two year,Mailed check,96.41354166666667,0,0,1,0.06939088696135164,0,1,1021
+Berkeley,46,Two year,Credit card (automatic),40.05869565217392,0,0,0,0.06919228505132546,0,0,1022
+Keeler,14,Month-to-month,Bank transfer (automatic),50.67857142857143,0,1,0,0.0690410119975925,0,0,1023
+Jenner,16,Month-to-month,Electronic check,19.5875,0,1,1,0.06888907928732389,0,0,1024
+Gazelle,43,Month-to-month,Bank transfer (automatic),35.00813953488372,0,1,0,0.0686027220795276,0,0,1025
+Los Angeles,62,One year,Bank transfer (automatic),56.25725806451613,0,0,0,0.06859579857324821,0,0,1026
+San Jose,70,Two year,Bank transfer (automatic),59.21142857142858,0,0,0,0.06816394364142676,0,0,1027
+Fulton,72,Two year,Bank transfer (automatic),65.05972222222222,0,0,0,0.0673870939644488,0,0,1028
+Cerritos,45,One year,Electronic check,20.67666666666667,0,0,1,0.0673588170883862,0,1,1029
+Santee,49,Two year,Credit card (automatic),20.869387755102043,0,0,0,0.06714558479133453,0,0,1030
+San Ardo,21,Month-to-month,Electronic check,26.94047619047619,0,1,1,0.06632132063193157,0,0,1031
+Sugarloaf,29,One year,Mailed check,18.25862068965517,0,0,1,0.06595052935705216,0,0,1032
+Korbel,19,Month-to-month,Credit card (automatic),23.11578947368421,0,1,0,0.06571063155312869,0,0,1033
+Fontana,71,Two year,Electronic check,97.32816901408451,0,0,1,0.06537539653781951,0,0,1034
+Oakland,27,One year,Bank transfer (automatic),20.83703703703704,0,0,0,0.06532638707028349,0,0,1035
+Irvine,64,One year,Bank transfer (automatic),58.69453125,0,0,0,0.06456136527073911,0,0,1036
+Pacific Palisades,48,Two year,Bank transfer (automatic),22.020833333333332,0,0,0,0.06399390345942407,0,0,1037
+Petaluma,34,Month-to-month,Bank transfer (automatic),53.391176470588235,0,1,0,0.06399171287007019,0,0,1038
+Oakland,62,One year,Credit card (automatic),93.41693548387097,0,0,0,0.06364881611575597,0,0,1039
+Big Bear Lake,26,One year,Bank transfer (automatic),77.61923076923077,0,0,0,0.06345276123126047,0,0,1040
+Grass Valley,17,One year,Credit card (automatic),46.59705882352941,0,0,0,0.0633802534124971,0,0,1041
+Helendale,61,One year,Bank transfer (automatic),86.09426229508196,0,0,0,0.06334940069166038,0,0,1042
+Kneeland,60,One year,Credit card (automatic),117.49166666666666,0,0,0,0.06255681695687537,0,0,1043
+Winnetka,59,One year,Credit card (automatic),67.08813559322033,0,0,0,0.06164441806265248,0,0,1044
+Burney,69,Two year,Credit card (automatic),19.656521739130433,0,0,0,0.061154572812718716,0,0,1045
+Rio Oso,6,Two year,Mailed check,36.25,1,0,1,0.06109418135417354,0,0,1046
+Soda Springs,46,Two year,Mailed check,83.61630434782609,0,0,1,0.06102489969513374,0,0,1047
+Nice,10,Two year,Mailed check,22.080000000000002,0,0,1,0.06056907925272012,0,0,1048
+Los Angeles,72,Two year,Credit card (automatic),93.33194444444445,0,0,0,0.06021205270576865,0,0,1049
+Winchester,50,One year,Credit card (automatic),83.288,0,0,0,0.06002393389900397,0,0,1050
+Isleton,72,Two year,Bank transfer (automatic),107.62152777777777,0,0,0,0.05977909305193794,0,0,1051
+Goodyears Bar,26,One year,Bank transfer (automatic),95.20576923076922,0,0,0,0.05917947805390486,0,0,1052
+Oakland,3,One year,Credit card (automatic),19.133333333333333,1,0,0,0.0590312096344196,0,0,1053
+Chatsworth,19,One year,Mailed check,14.694736842105263,0,0,1,0.05879655621715351,0,0,1054
+West Sacramento,11,Month-to-month,Electronic check,22.8,0,1,1,0.05823599427764314,0,0,1055
+Monrovia,27,Month-to-month,Mailed check,49.48703703703704,0,1,1,0.057927024286317415,0,0,1056
+Long Beach,62,Two year,Electronic check,84.11693548387096,0,0,1,0.05751667753164204,0,0,1057
+Shaver Lake,56,Two year,Credit card (automatic),76.09285714285714,0,0,0,0.056038820528346446,0,0,1058
+Lockeford,67,One year,Bank transfer (automatic),74.5,0,0,0,0.056029716857327404,0,0,1059
+Los Angeles,69,Two year,Credit card (automatic),61.6536231884058,0,0,0,0.05584268764734995,0,0,1060
+Poway,68,Two year,Electronic check,90.41838235294118,0,0,1,0.054775527306275114,0,0,1061
+Sacramento,6,One year,Mailed check,15.741666666666667,1,0,1,0.054528657152567384,0,0,1062
+San Jose,66,Two year,Credit card (automatic),67.09772727272727,0,0,0,0.05440467829268627,0,0,1063
+Hawaiian Gardens,49,Two year,Bank transfer (automatic),65.28571428571429,0,0,0,0.05419537486580776,0,0,1064
+Cayucos,10,Month-to-month,Mailed check,16.32,0,1,1,0.05298659236731787,0,0,1065
+Davis,48,Two year,Credit card (automatic),67.46666666666667,0,0,0,0.052630167333516574,0,0,1066
+Maywood,66,One year,Bank transfer (automatic),92.89318181818182,0,0,0,0.05207015060967968,0,0,1067
+Pico Rivera,21,One year,Mailed check,16.67142857142857,0,0,1,0.05122733454333875,0,0,1068
+Milford,72,Two year,Electronic check,107.6625,0,0,1,0.05118193516358953,0,0,1069
+Santa Maria,4,One year,Mailed check,17.05,1,0,1,0.050526805108254344,0,0,1070
+Long Beach,55,Month-to-month,Electronic check,56.941818181818185,0,1,1,0.05049635248679339,0,0,1071
+Keyes,12,Month-to-month,Mailed check,20.558333333333334,0,1,1,0.05040596654794073,0,0,1072
+Richmond,68,Two year,Bank transfer (automatic),115.43897058823529,0,0,0,0.050403282962509656,0,0,1073
+Los Angeles,29,One year,Bank transfer (automatic),67.53275862068966,0,0,0,0.050029362844113974,0,0,1074
+Potter Valley,11,Month-to-month,Bank transfer (automatic),22.39090909090909,0,1,0,0.04990001082253015,0,0,1075
+Orange Cove,49,One year,Electronic check,100.36530612244897,0,0,1,0.049684583542383545,0,0,1076
+Santa Rosa,41,One year,Bank transfer (automatic),19.46829268292683,0,0,0,0.04958136603547992,0,0,1077
+Fort Irwin,36,One year,Electronic check,53.93055555555556,0,0,1,0.048748928342146586,0,0,1078
+Parker Dam,28,One year,Credit card (automatic),19.09642857142857,0,0,0,0.048678576252628086,0,0,1079
+Zenia,19,Two year,Mailed check,19.657894736842106,0,0,1,0.04845278427264492,0,0,1080
+Sacramento,67,Two year,Electronic check,46.22686567164179,0,0,1,0.04778517989942576,0,0,1081
+Manteca,36,One year,Credit card (automatic),93.00277777777778,0,0,0,0.04775876792868615,0,0,1082
+Tracy,71,Two year,Bank transfer (automatic),106.40845070422536,0,0,0,0.04768997898572278,0,0,1083
+San Geronimo,20,Month-to-month,Credit card (automatic),17.3825,0,1,0,0.04749646733447336,0,0,1084
+Fresno,39,Two year,Mailed check,99.88076923076923,0,0,1,0.04735777466325838,0,0,1085
+Olympic Valley,60,Month-to-month,Electronic check,80.985,0,1,1,0.04733580030842953,0,0,1086
+Tulare,70,Two year,Mailed check,85.58642857142857,0,0,1,0.0472076664952864,0,0,1087
+Los Angeles,19,Two year,Mailed check,18.849999999999998,0,0,1,0.04719859166629548,0,0,1088
+Zenia,19,Month-to-month,Mailed check,21.839473684210525,0,1,1,0.0471216244506109,0,0,1089
+Richmond,62,Two year,Bank transfer (automatic),22.850806451612904,0,0,0,0.046983406839752745,0,0,1090
+Escondido,69,Two year,Bank transfer (automatic),60.53188405797101,0,0,0,0.04697875913974654,0,0,1091
+Ramona,48,Month-to-month,Credit card (automatic),43.92395833333333,0,1,0,0.04686126463876367,0,0,1092
+San Francisco,72,Two year,Bank transfer (automatic),92.12152777777777,0,0,0,0.04664057380965148,0,0,1093
+Pala,68,Two year,Credit card (automatic),20.529411764705884,0,0,0,0.046401776956829156,0,0,1094
+Escondido,19,Month-to-month,Mailed check,50.19210526315789,0,1,1,0.04636279061371164,0,0,1095
+Junction City,53,One year,Electronic check,105.21320754716982,0,0,1,0.04628084298843195,0,0,1096
+Tustin,58,One year,Electronic check,19.117241379310343,0,0,1,0.0460153448964855,0,0,1097
+Cathedral City,64,Two year,Bank transfer (automatic),106.16796875,0,0,0,0.045939216062688366,0,0,1098
+Whittier,63,One year,Credit card (automatic),55.611111111111114,0,0,0,0.04576673444078689,0,0,1099
+Fresno,72,Two year,Credit card (automatic),90.42291666666667,0,0,0,0.045729658320359835,0,0,1100
+San Jose,42,Two year,Electronic check,19.892857142857142,0,0,1,0.04539119660779812,0,0,1101
+Midpines,9,Month-to-month,Credit card (automatic),63.49444444444445,0,1,0,0.045361163626470025,0,0,1102
+Garden Grove,48,One year,Credit card (automatic),24.40625,0,0,0,0.0444302461073717,0,0,1103
+Cazadero,56,Two year,Bank transfer (automatic),102.57767857142858,0,0,0,0.044016370231026135,0,0,1104
+San Jose,32,Month-to-month,Bank transfer (automatic),58.2703125,0,1,0,0.043988618268354145,0,0,1105
+San Bernardino,72,Two year,Credit card (automatic),85.15069444444445,0,0,0,0.04383944094972034,0,0,1106
+Willows,24,Two year,Mailed check,20.131249999999998,0,0,1,0.04383420424264442,0,0,1107
+Los Angeles,49,Month-to-month,Credit card (automatic),60.61836734693878,0,1,0,0.04334857663413648,0,0,1108
+Merced,72,Two year,Credit card (automatic),89.44791666666667,0,0,0,0.04307477400006141,0,1,1109
+Kenwood,69,Two year,Electronic check,118.59202898550726,0,0,1,0.0429848253747609,0,0,1110
+Upper Lake,1,Month-to-month,Electronic check,19.25,1,1,1,0.042947529772024595,0,0,1111
+Compton,11,Month-to-month,Mailed check,16.39090909090909,0,1,1,0.04268587617400504,0,1,1112
+Venice,61,One year,Credit card (automatic),98.66639344262295,0,0,0,0.04263827633392876,0,0,1113
+Sun Valley,60,Two year,Electronic check,109.78083333333333,0,0,1,0.04245895518437204,0,0,1114
+San Bernardino,54,Two year,Bank transfer (automatic),71.70092592592593,0,0,0,0.04209850576363462,0,0,1115
+La Mirada,65,Two year,Electronic check,109.35692307692307,0,0,1,0.04190680793691256,0,0,1116
+Cotati,61,One year,Credit card (automatic),18.750819672131147,0,0,0,0.041710951798840004,0,0,1117
+Diamond Springs,67,Two year,Bank transfer (automatic),36.33507462686567,0,0,0,0.041074577541300596,0,0,1118
+Pixley,65,Two year,Electronic check,111.47923076923077,0,0,1,0.041070274703956286,0,0,1119
+Santa Ynez,33,One year,Mailed check,53.300000000000004,0,0,1,0.0404847717305048,0,0,1120
+Los Gatos,66,Two year,Bank transfer (automatic),67.38712121212122,0,0,0,0.038958415461113075,0,0,1121
+Pioneertown,42,Month-to-month,Credit card (automatic),58.453571428571436,0,1,0,0.038729660551622636,0,0,1122
+Fresno,65,Two year,Bank transfer (automatic),75.83923076923077,0,0,0,0.03851004095711333,0,0,1123
+Mi Wuk Village,70,Two year,Bank transfer (automatic),74.46642857142857,0,0,0,0.038363215212596766,0,0,1124
+Willow Creek,64,One year,Credit card (automatic),73.26015625,0,0,0,0.03832978144910185,0,0,1125
+Dunlap,50,Two year,Electronic check,20.264,0,0,1,0.03765873106321062,0,0,1126
+Compton,17,One year,Bank transfer (automatic),19.008823529411764,0,0,0,0.03730550235608794,0,0,1127
+Palmdale,18,Two year,Credit card (automatic),26.186111111111114,0,0,0,0.03725821050403485,0,0,1128
+Riverside,60,Two year,Mailed check,62.769999999999996,0,0,1,0.03707495007560071,0,0,1129
+Joshua Tree,11,Two year,Mailed check,21.04090909090909,0,0,1,0.036951013186088864,0,0,1130
+Glendale,43,Two year,Mailed check,20.375581395348835,0,0,1,0.03672287295231757,0,0,1131
+Hanford,45,One year,Bank transfer (automatic),79.94444444444444,0,0,0,0.03663175296464987,0,0,1132
+Long Barn,72,Two year,Credit card (automatic),74.94791666666667,0,0,0,0.03650373288721421,0,0,1133
+Joshua Tree,20,Two year,Mailed check,20.97,0,0,1,0.035400377686630013,0,0,1134
+San Clemente,69,Two year,Electronic check,101.8623188405797,0,0,1,0.03522663075731333,0,0,1135
+Los Banos,71,Two year,Credit card (automatic),107.26760563380282,0,0,0,0.03510021295104526,0,0,1136
+Los Altos,53,Month-to-month,Electronic check,72.22452830188679,0,1,1,0.03493124491252902,0,0,1137
+Richmond,66,Two year,Mailed check,25.722727272727273,0,0,1,0.034749898715564574,0,0,1138
+Burbank,25,One year,Mailed check,54.218,0,0,1,0.03461820252468067,0,0,1139
+Rancho Santa Fe,37,Two year,Credit card (automatic),61.58783783783784,0,0,0,0.03387204708721338,0,0,1140
+Bakersfield,51,One year,Electronic check,56.84215686274509,0,0,1,0.033825468976339805,0,0,1141
+Long Beach,46,Two year,Mailed check,66.24239130434783,0,0,1,0.0332691748136593,0,0,1142
+Mill Creek,68,Two year,Bank transfer (automatic),110.41985294117647,0,0,0,0.03309529255700538,0,0,1143
+Avila Beach,28,One year,Mailed check,59.0875,0,0,1,0.033067578479662026,0,0,1144
+Los Angeles,24,One year,Credit card (automatic),19.568749999999998,0,0,0,0.033048682964515734,0,0,1145
+Chester,26,Month-to-month,Mailed check,19.934615384615384,0,1,1,0.032789810881023375,0,0,1146
+Gerber,15,One year,Mailed check,46.230000000000004,0,0,1,0.032659662767523565,0,0,1147
+Aliso Viejo,28,One year,Electronic check,59.096428571428575,0,0,1,0.03260671910054791,0,0,1148
+Clayton,70,Two year,Bank transfer (automatic),28.670714285714286,0,0,0,0.03216027564198421,0,0,1149
+Wilmington,72,Two year,Credit card (automatic),109.46111111111111,0,0,0,0.03204472586204644,0,0,1150
+Mc Kittrick,53,Two year,Credit card (automatic),25.20943396226415,0,0,0,0.03190292938856794,0,0,1151
+Livingston,72,Two year,Mailed check,24.666666666666668,0,0,1,0.031844266716083834,0,0,1152
+Downey,60,Two year,Bank transfer (automatic),38.144999999999996,0,0,0,0.031691269945981794,0,0,1153
+San Diego,62,Two year,Mailed check,110.09112903225805,0,0,1,0.03160783706723517,0,0,1154
+Los Angeles,63,Two year,Credit card (automatic),74.72777777777779,0,0,0,0.03146592014784105,0,0,1155
+Sacramento,56,Two year,Bank transfer (automatic),25.786607142857143,0,0,0,0.0313263551706313,0,0,1156
+Calexico,67,One year,Electronic check,20.050746268656717,0,0,1,0.03131974709908262,0,0,1157
+Lakewood,71,Two year,Credit card (automatic),87.87394366197184,0,0,0,0.031294149574244694,0,0,1158
+Carmel,72,Two year,Bank transfer (automatic),25.572222222222223,0,0,0,0.03128769196415089,0,0,1159
+La Mesa,72,Two year,Bank transfer (automatic),100.85069444444444,0,0,0,0.03100464130611406,0,0,1160
+San Francisco,71,Two year,Bank transfer (automatic),80.39718309859154,0,0,0,0.03094971264308339,0,0,1161
+Kenwood,1,Month-to-month,Mailed check,20.05,1,1,1,0.030643980523859568,0,0,1162
+Los Angeles,58,Two year,Mailed check,20.44741379310345,0,0,1,0.03054359981756808,0,0,1163
+Los Angeles,40,Two year,Mailed check,20.12125,0,0,1,0.03044142881123103,0,0,1164
+Arroyo Grande,36,One year,Mailed check,52.59722222222222,0,0,1,0.03023116420612474,0,0,1165
+Burson,52,One year,Mailed check,65.58846153846153,0,0,1,0.030152592379895083,0,0,1166
+Los Olivos,34,One year,Bank transfer (automatic),61.95,0,0,0,0.029781919836294263,0,0,1167
+Bakersfield,66,Two year,Bank transfer (automatic),63.48030303030303,0,0,0,0.029770892117173462,0,0,1168
+Westport,56,Two year,Mailed check,117.28392857142856,0,0,1,0.029412414575622953,0,0,1169
+Downey,62,Two year,Bank transfer (automatic),22.97741935483871,0,0,0,0.029220323511522123,0,0,1170
+Traver,25,Two year,Credit card (automatic),19.008,0,0,0,0.029081884493556413,0,0,1171
+La Mesa,68,Two year,Credit card (automatic),60.4264705882353,0,0,0,0.028736130115988412,0,0,1172
+Manchester,72,Two year,Bank transfer (automatic),115.52708333333334,0,0,0,0.028527399156556353,0,0,1173
+Los Angeles,63,Two year,Mailed check,25.685714285714287,0,0,1,0.028159621940484502,0,0,1174
+Raymond,6,Month-to-month,Mailed check,19.883333333333333,1,1,1,0.028109606335089334,0,0,1175
+Garden Grove,72,Two year,Electronic check,117.01597222222222,0,0,1,0.027886336360916704,0,0,1176
+Sunnyvale,67,Two year,Credit card (automatic),80.57611940298509,0,0,0,0.027786119624566452,0,0,1177
+King City,70,Two year,Credit card (automatic),117.85714285714286,0,0,0,0.027544665105704604,0,0,1178
+El Nido,71,Two year,Bank transfer (automatic),104.41619718309859,0,0,0,0.027515844021082324,0,0,1179
+Hawthorne,48,One year,Bank transfer (automatic),28.932291666666668,0,0,0,0.027283222354169995,0,0,1180
+Somerset,67,Two year,Electronic check,107.04029850746268,0,0,1,0.02695910684945835,0,0,1181
+Moss Beach,37,One year,Credit card (automatic),87.77162162162162,0,0,0,0.026928449379676315,0,0,1182
+La Mirada,7,Month-to-month,Mailed check,50.050000000000004,0,1,1,0.026499164190308268,0,0,1183
+San Ramon,64,Two year,Credit card (automatic),24.7625,0,0,0,0.026452648036088253,0,0,1184
+Escondido,21,Two year,Mailed check,18.59047619047619,0,0,1,0.02544543733275459,0,0,1185
+Auburn,42,One year,Electronic check,18.139285714285716,0,0,1,0.025400316525333512,0,0,1186
+San Francisco,13,Two year,Bank transfer (automatic),25.576923076923077,0,0,0,0.025359773569779295,0,0,1187
+Forks Of Salmon,63,One year,Electronic check,91.5031746031746,0,0,1,0.024879106308467916,0,0,1188
+Los Altos,62,Two year,Electronic check,106.29838709677419,0,0,1,0.024866805200889675,0,0,1189
+Long Beach,71,One year,Bank transfer (automatic),72.38943661971831,0,0,0,0.02484246361226973,0,0,1190
+Paso Robles,11,One year,Mailed check,20.61818181818182,0,0,1,0.024518273263981764,0,0,1191
+Fresno,71,Two year,Bank transfer (automatic),26.774647887323944,0,0,0,0.024514390517704193,0,0,1192
+San Jose,61,Two year,Bank transfer (automatic),81.57622950819672,0,0,0,0.024216045977442525,0,0,1193
+Monterey Park,61,Two year,Mailed check,90.60245901639344,0,0,1,0.024146876155722564,0,0,1194
+Santa Maria,9,Month-to-month,Mailed check,50.31111111111111,0,1,1,0.024080352263046705,0,0,1195
+Arcadia,53,Two year,Bank transfer (automatic),74.68396226415095,0,0,0,0.023753248285867282,0,0,1196
+Mission Viejo,66,Two year,Credit card (automatic),90.28560606060607,0,0,0,0.023752692659820603,0,0,1197
+San Francisco,71,Two year,Mailed check,19.950704225352112,0,0,1,0.02336120253933892,0,0,1198
+Tupman,68,Two year,Bank transfer (automatic),115.34632352941176,0,0,0,0.02282578374355483,0,0,1199
+Thousand Oaks,72,Two year,Credit card (automatic),43.608333333333334,0,0,0,0.022799194215522144,0,0,1200
+Hawaiian Gardens,34,One year,Mailed check,60.06029411764706,0,0,1,0.0223428127909016,0,0,1201
+Greenfield,64,Two year,Bank transfer (automatic),90.9734375,0,0,0,0.022245521806709467,0,0,1202
+Hayward,71,Two year,Credit card (automatic),78.17042253521127,0,0,0,0.021889604030138548,0,0,1203
+Macdoel,65,Two year,Bank transfer (automatic),54.121538461538464,0,0,0,0.02186601917484387,0,0,1204
+San Leandro,56,Two year,Credit card (automatic),80.97232142857142,0,0,0,0.02141526136769582,0,0,1205
+Riverside,67,Two year,Bank transfer (automatic),102.91791044776119,0,0,0,0.021210216483654416,0,0,1206
+Hyampom,63,One year,Bank transfer (automatic),36.490476190476194,0,0,0,0.02103693980222445,0,0,1207
+Desert Hot Springs,27,Two year,Electronic check,28.22037037037037,0,0,1,0.021034020879461157,0,0,1208
+Ontario,64,Two year,Credit card (automatic),18.884375,0,0,0,0.020957465243843287,0,0,1209
+Raymond,43,Two year,Credit card (automatic),82.94418604651163,0,0,0,0.020330276229072547,0,0,1210
+Sunnyvale,61,One year,Bank transfer (automatic),21.907377049180326,0,0,0,0.020250003093422987,0,0,1211
+Corona,8,Two year,Mailed check,20.20625,0,0,1,0.01986853312677428,0,0,1212
+Guadalupe,66,One year,Credit card (automatic),49.27045454545454,0,0,0,0.019661825212200213,0,0,1213
+Chilcoot,34,One year,Mailed check,55.44558823529412,0,0,1,0.019614615457981873,0,0,1214
+Coarsegold,68,One year,Credit card (automatic),73.86764705882354,0,0,0,0.01953341493000563,0,0,1215
+Surfside,52,One year,Credit card (automatic),95.6951923076923,0,0,0,0.019373102679983514,0,0,1216
+Pasadena,21,Two year,Mailed check,56.34285714285714,0,0,1,0.019281280484386827,0,0,1217
+Monterey,62,Two year,Bank transfer (automatic),37.7008064516129,0,0,0,0.01922516760230829,0,0,1218
+Santa Ana,71,Two year,Credit card (automatic),63.28028169014084,0,0,0,0.019023787977625668,0,0,1219
+Downey,68,Two year,Credit card (automatic),23.958823529411767,0,0,0,0.018844297878685284,0,0,1220
+La Verne,0,One year,Mailed check,0.0,1,0,1,0.01878778600199788,0,0,1221
+Arbuckle,53,Two year,Credit card (automatic),19.82075471698113,0,0,0,0.018528793889199622,0,0,1222
+Sacramento,72,Two year,Bank transfer (automatic),106.66180555555555,0,0,0,0.018269171622854054,0,0,1223
+El Centro,68,One year,Credit card (automatic),75.92647058823529,0,0,0,0.018162899826185377,0,0,1224
+Stinson Beach,25,One year,Mailed check,20.804000000000002,0,0,1,0.01797022486523114,0,0,1225
+Yucca Valley,72,Two year,Credit card (automatic),83.07847222222222,0,0,0,0.01778646977564692,0,0,1226
+Three Rivers,51,One year,Bank transfer (automatic),24.83137254901961,0,0,0,0.01776651056277223,0,0,1227
+Penngrove,63,Two year,Credit card (automatic),79.90555555555555,0,0,0,0.017644454700576226,0,0,1228
+Hesperia,72,Two year,Credit card (automatic),82.21319444444445,0,0,0,0.01758899550565149,0,0,1229
+Fowler,53,Two year,Credit card (automatic),19.80377358490566,0,0,0,0.017570256768741487,0,0,1230
+Madeline,27,One year,Credit card (automatic),81.8425925925926,0,0,0,0.017530911692645753,0,0,1231
+Sacramento,67,One year,Credit card (automatic),69.45149253731343,0,0,0,0.017216495214079076,0,0,1232
+Fresno,41,One year,Mailed check,70.59878048780489,0,0,1,0.017191751317245575,0,0,1233
+Needles,40,Month-to-month,Electronic check,26.9375,0,1,1,0.01718942410928774,0,0,1234
+Wildomar,71,Two year,Credit card (automatic),94.4669014084507,0,0,0,0.017186257477734602,0,0,1235
+Fremont,64,Two year,Bank transfer (automatic),19.90703125,0,0,0,0.017042135999404007,0,0,1236
+Wilmington,35,One year,Bank transfer (automatic),27.282857142857143,0,0,0,0.016988447133136683,0,0,1237
+Salinas,72,Two year,Bank transfer (automatic),24.704166666666666,0,0,0,0.016953448180802792,0,0,1238
+Inglewood,56,Two year,Bank transfer (automatic),19.295535714285712,0,0,0,0.01683363048133838,0,0,1239
+Chilcoot,49,One year,Bank transfer (automatic),18.838775510204083,0,0,0,0.01648466712808405,0,0,1240
+Volcano,60,One year,Credit card (automatic),70.41166666666666,0,0,0,0.016329458915533744,0,0,1241
+Covina,62,Two year,Bank transfer (automatic),23.058870967741935,0,0,0,0.016246775710797766,0,0,1242
+Three Rivers,20,One year,Mailed check,20.1575,0,0,1,0.0161867445343116,0,0,1243
+Gazelle,72,Two year,Bank transfer (automatic),76.11458333333333,0,0,0,0.01617203721126098,0,0,1244
+Sacramento,56,Two year,Bank transfer (automatic),18.78392857142857,0,0,0,0.015826944081002305,0,0,1245
+Redding,20,Two year,Credit card (automatic),41.269999999999996,0,0,0,0.015560578034642716,0,0,1246
+Rocklin,22,One year,Credit card (automatic),21.23409090909091,0,0,0,0.015502977960074818,0,0,1247
+Point Arena,64,Two year,Mailed check,19.37734375,0,0,1,0.015344846509371278,0,0,1248
+Sunnyvale,72,Two year,Credit card (automatic),117.45486111111111,0,0,0,0.01527292586515559,0,0,1249
+Whittier,70,Two year,Electronic check,85.42428571428572,0,0,1,0.0151149101753026,0,0,1250
+Rescue,50,Two year,Credit card (automatic),69.733,0,0,0,0.015082995124435629,0,0,1251
+Washington,26,One year,Mailed check,20.213461538461537,0,0,1,0.015016452116248634,0,0,1252
+Gardena,45,Two year,Bank transfer (automatic),80.41555555555556,0,0,0,0.014741149286102906,0,0,1253
+Carlotta,22,One year,Bank transfer (automatic),20.48409090909091,0,0,0,0.014717223278815555,0,0,1254
+Salinas,34,One year,Bank transfer (automatic),20.061764705882354,0,0,0,0.014707663163122657,0,0,1255
+Foresthill,19,Month-to-month,Electronic check,19.871052631578948,0,1,1,0.014302199131576987,0,0,1256
+Modesto,54,Two year,Credit card (automatic),20.196296296296296,0,0,0,0.014259048126255518,0,0,1257
+Wildomar,69,Two year,Electronic check,99.36884057971014,0,0,1,0.014249097884755658,0,0,1258
+Willits,56,One year,Credit card (automatic),58.620535714285715,0,0,0,0.013878664422449475,0,0,1259
+Arvin,54,Two year,Credit card (automatic),91.94444444444444,0,0,0,0.013807994879483781,0,0,1260
+Oak Park,60,Month-to-month,Credit card (automatic),77.72333333333333,0,1,0,0.01378041630716593,0,0,1261
+Bakersfield,72,Two year,Credit card (automatic),66.82777777777778,0,0,0,0.013767124904162195,0,0,1262
+San Francisco,15,Two year,Mailed check,18.59,0,0,1,0.013758005898726382,0,0,1263
+Camino,23,Two year,Mailed check,37.29347826086956,0,0,1,0.013730669979109954,0,0,1264
+La Canada Flintridge,69,Two year,Mailed check,19.76014492753623,0,0,1,0.013682947291807612,0,0,1265
+Los Olivos,47,Month-to-month,Electronic check,56.469148936170214,0,1,1,0.013428409581138681,0,0,1266
+Forestville,52,Two year,Credit card (automatic),64.13365384615385,0,0,0,0.013317366627633625,0,0,1267
+Daggett,9,Two year,Mailed check,21.233333333333334,0,0,1,0.013165751442518124,0,0,1268
+Bakersfield,72,Two year,Bank transfer (automatic),66.73124999999999,0,0,0,0.013027630439532678,0,0,1269
+San Jose,64,One year,Mailed check,24.9296875,0,0,1,0.012883367912209178,0,0,1270
+La Quinta,72,Two year,Credit card (automatic),20.399305555555557,0,0,0,0.012694719672804085,0,0,1271
+Winnetka,69,Two year,Bank transfer (automatic),19.933333333333334,0,0,0,0.012663481371493425,0,0,1272
+San Andreas,53,One year,Bank transfer (automatic),24.56415094339623,0,0,0,0.012655663492832685,0,0,1273
+Chino Hills,44,Month-to-month,Mailed check,66.45568181818182,0,1,1,0.012600190138802501,0,0,1274
+Glennville,71,One year,Bank transfer (automatic),102.65352112676055,0,0,0,0.012255893914600703,0,0,1275
+Potter Valley,63,One year,Bank transfer (automatic),65.25952380952381,0,0,0,0.011672235316861101,0,0,1276
+San Martin,43,Two year,Electronic check,24.887209302325584,0,0,1,0.01146237950692457,0,0,1277
+Madera,48,Two year,Mailed check,18.403125,0,0,1,0.011445679000782989,0,0,1278
+Sebastopol,62,Two year,Bank transfer (automatic),83.76129032258065,0,0,0,0.011421853108415864,0,0,1279
+Simi Valley,72,Two year,Credit card (automatic),24.859722222222224,0,0,0,0.011055762280707817,0,0,1280
+Foresthill,9,Month-to-month,Mailed check,20.455555555555556,0,1,1,0.010985873603865335,0,0,1281
+Santa Cruz,72,Two year,Bank transfer (automatic),69.80347222222223,0,0,0,0.010799109908609715,0,0,1282
+San Jose,28,Two year,Credit card (automatic),17.426785714285714,0,0,0,0.010760555147016971,0,0,1283
+Whittier,69,Two year,Mailed check,93.92608695652173,0,0,1,0.010759314957817163,0,0,1284
+San Jose,51,Two year,Mailed check,23.965686274509803,0,0,1,0.010576739912700361,0,0,1285
+Irvine,33,One year,Mailed check,20.671212121212122,0,0,1,0.010566823214721516,0,0,1286
+Los Angeles,48,Two year,Mailed check,24.444791666666664,0,0,1,0.010535222357761038,0,0,1287
+Baldwin Park,70,Two year,Credit card (automatic),90.47714285714285,0,0,0,0.01042381208840598,0,0,1288
+Chowchilla,32,Month-to-month,Credit card (automatic),21.0796875,0,1,0,0.01042231703839208,0,0,1289
+Campo Seco,45,Two year,Bank transfer (automatic),25.306666666666665,0,0,0,0.010387188743749429,0,0,1290
+Fillmore,70,Two year,Credit card (automatic),75.94,0,0,0,0.010295964814612096,0,0,1291
+Garden Grove,38,One year,Mailed check,19.719736842105263,0,0,1,0.01029141537991929,0,0,1292
+Wishon,70,One year,Credit card (automatic),74.60428571428572,0,0,0,0.010287273885955024,0,0,1293
+Santa Ysabel,66,Month-to-month,Bank transfer (automatic),68.31287878787879,0,1,0,0.010269016302716807,0,0,1294
+Carmel Valley,72,Two year,Bank transfer (automatic),63.54652777777778,0,0,0,0.010230398099399815,0,0,1295
+Portola,69,One year,Credit card (automatic),20.907971014492755,0,0,0,0.010229695559182437,0,0,1296
+San Francisco,69,Two year,Bank transfer (automatic),80.3268115942029,0,0,0,0.010174417577218079,0,0,1297
+Llano,27,Two year,Bank transfer (automatic),55.50555555555556,0,0,0,0.009937535481780876,0,0,1298
+Death Valley,52,Two year,Bank transfer (automatic),24.427884615384617,0,0,0,0.009764210052383777,0,0,1299
+Petrolia,71,Two year,Credit card (automatic),90.94577464788732,0,0,0,0.009595501855559395,0,0,1300
+Manteca,2,One year,Bank transfer (automatic),19.125,1,0,0,0.009497408259023718,0,0,1301
+Bakersfield,65,Two year,Bank transfer (automatic),26.53846153846154,0,0,0,0.009363667530141192,0,0,1302
+Salinas,44,One year,Bank transfer (automatic),21.045454545454547,0,0,0,0.009315356590484167,0,0,1303
+Van Nuys,72,Two year,Credit card (automatic),88.85555555555555,0,0,0,0.00921234757160701,0,0,1304
+Culver City,19,Two year,Credit card (automatic),24.605263157894736,0,0,0,0.009127080160408266,0,0,1305
+Manteca,22,Month-to-month,Mailed check,18.195454545454545,0,1,1,0.009072804434306945,0,0,1306
+Imperial,69,Two year,Bank transfer (automatic),19.66231884057971,0,0,0,0.008950555370669808,0,0,1307
+La Mirada,24,Two year,Bank transfer (automatic),19.591666666666665,0,0,0,0.008736989535335813,0,0,1308
+California City,61,Two year,Mailed check,25.43606557377049,0,0,1,0.008495934672149435,0,0,1309
+Rescue,56,Two year,Credit card (automatic),59.76428571428572,0,0,0,0.008447405493946037,0,0,1310
+Fiddletown,26,One year,Mailed check,49.45384615384615,0,0,1,0.008308756943699806,0,0,1311
+Rocklin,41,Two year,Electronic check,109.93048780487804,0,0,1,0.008218194466711149,0,0,1312
+Mcarthur,24,Two year,Mailed check,18.85625,0,0,1,0.0081880828084774,0,0,1313
+Yountville,36,One year,Credit card (automatic),60.791666666666664,0,0,0,0.008077681881876648,0,0,1314
+Dulzura,25,Two year,Mailed check,15.345999999999998,0,0,1,0.008000842590116169,0,0,1315
+Springville,57,Month-to-month,Bank transfer (automatic),64.69912280701755,0,1,0,0.007993163400085693,0,0,1316
+Gerber,58,One year,Credit card (automatic),74.15172413793104,0,0,0,0.00798292527943599,0,0,1317
+Santa Ana,45,Two year,Bank transfer (automatic),56.748888888888885,0,0,0,0.007910631991876757,0,0,1318
+Clovis,61,Two year,Mailed check,23.691803278688525,0,0,1,0.007827640958090458,0,0,1319
+Georgetown,47,One year,Electronic check,38.18723404255319,0,0,1,0.007681476750400396,0,0,1320
+Ferndale,29,Two year,Mailed check,19.268965517241377,0,0,1,0.007300440116907418,0,0,1321
+San Francisco,47,Two year,Mailed check,20.18936170212766,0,0,1,0.007185636903838541,0,0,1322
+Huntington Beach,52,Two year,Mailed check,25.881730769230767,0,0,1,0.0070868925800228084,0,0,1323
+San Jose,67,Two year,Credit card (automatic),72.66268656716417,0,0,0,0.007075576309079556,0,0,1324
+Bakersfield,49,Two year,Bank transfer (automatic),67.48673469387755,0,0,0,0.0070285932430733545,0,0,1325
+Stockton,72,Two year,Credit card (automatic),79.86111111111111,0,0,0,0.006656599761679764,0,0,1326
+La Crescenta,49,One year,Mailed check,88.6734693877551,0,0,1,0.006607131125683513,0,0,1327
+Palos Verdes Peninsula,58,One year,Mailed check,41.60431034482759,0,0,1,0.006521939285097192,0,0,1328
+Lake Isabella,72,Two year,Credit card (automatic),109.99722222222222,0,0,0,0.006520578287457456,0,0,1329
+San Marcos,71,Two year,Credit card (automatic),26.021830985915493,0,0,0,0.00643408844815137,0,0,1330
+Fillmore,40,Two year,Bank transfer (automatic),20.682499999999997,0,0,0,0.00631029716802407,0,0,1331
+Whitmore,72,Two year,Mailed check,75.42569444444445,0,0,1,0.006295745717639679,0,0,1332
+Arcadia,72,Two year,Credit card (automatic),20.864583333333332,0,0,0,0.006263864441596892,0,0,1333
+Arvin,9,One year,Mailed check,19.15,0,0,1,0.006194860939940638,0,0,1334
+Raisin City,67,Two year,Credit card (automatic),69.80746268656716,0,0,0,0.006143586690627133,0,0,1335
+Forest Falls,61,Two year,Mailed check,23.24426229508197,0,0,1,0.006136616970099088,0,0,1336
+Aguanga,24,Two year,Mailed check,20.754166666666666,0,0,1,0.006106780747940078,0,0,1337
+San Leandro,10,Two year,Credit card (automatic),22.555,0,0,0,0.006043629783809142,0,0,1338
+Biggs,70,Two year,Bank transfer (automatic),79.84928571428571,0,0,0,0.0060400414416953326,0,0,1339
+Geyserville,10,Two year,Credit card (automatic),52.1,0,0,0,0.005930423349042164,0,0,1340
+Hercules,51,Two year,Mailed check,24.2078431372549,0,0,1,0.005878556830283746,0,0,1341
+Glendora,72,Two year,Credit card (automatic),38.375,0,0,0,0.005827915467574612,0,0,1342
+Mt Baldy,50,Two year,Bank transfer (automatic),23.905,0,0,0,0.005765777570697158,0,0,1343
+Hayward,62,Two year,Credit card (automatic),19.65241935483871,0,0,0,0.005736099121145168,0,0,1344
+Boonville,71,Two year,Bank transfer (automatic),54.76971830985916,0,0,0,0.0056340075693562955,0,0,1345
+San Fernando,46,Two year,Mailed check,20.366304347826087,0,0,1,0.0056271496781404,0,0,1346
+Morongo Valley,55,One year,Bank transfer (automatic),77.53181818181818,0,0,0,0.005574747506763627,0,0,1347
+Burson,60,Two year,Bank transfer (automatic),58.0575,0,0,0,0.00535557578355886,0,0,1348
+Gazelle,48,One year,Bank transfer (automatic),63.23645833333333,0,0,0,0.0053466226080357915,0,0,1349
+San Ramon,66,Two year,Mailed check,20.37121212121212,0,0,1,0.005230189184372127,0,0,1350
+Rialto,47,Two year,Bank transfer (automatic),18.9468085106383,0,0,0,0.005156668088400599,0,0,1351
+Lagunitas,53,One year,Credit card (automatic),62.20754716981132,0,0,0,0.005133282405337149,0,0,1352
+Madison,52,Two year,Credit card (automatic),25.66346153846154,0,0,0,0.005061215008381089,0,0,1353
+Mendota,51,Two year,Mailed check,20.17156862745098,0,0,1,0.004910127688182134,0,0,1354
+Earp,9,One year,Mailed check,21.13888888888889,0,0,1,0.0048627086058540105,0,0,1355
+Capay,71,Two year,Credit card (automatic),26.595070422535212,0,0,0,0.004815244774451171,0,0,1356
+Newport Coast,55,Two year,Bank transfer (automatic),20.96818181818182,0,0,0,0.0046825907440914555,0,0,1357
+Fresno,71,Two year,Credit card (automatic),23.429577464788732,0,0,0,0.004581353088458358,0,0,1358
+Pittsburg,72,Two year,Bank transfer (automatic),23.322916666666668,0,0,0,0.004542114643624179,0,0,1359
+Santa Fe Springs,71,Two year,Credit card (automatic),89.13661971830986,0,0,0,0.004523835261986535,0,0,1360
+Pasadena,72,Two year,Bank transfer (automatic),19.460416666666667,0,0,0,0.004471462751270579,0,0,1361
+San Bruno,56,Two year,Mailed check,19.46607142857143,0,0,1,0.004463706996570599,0,0,1362
+Navarro,59,Two year,Mailed check,20.139830508474578,0,0,1,0.00445122659045021,0,0,1363
+Los Angeles,71,Two year,Credit card (automatic),18.325352112676054,0,0,0,0.004425300230938446,0,0,1364
+Sacramento,72,Two year,Bank transfer (automatic),24.15138888888889,0,0,0,0.0043898568694825295,0,0,1365
+Montgomery Creek,5,Two year,Mailed check,21.380000000000003,1,0,1,0.004304257638142807,0,0,1366
+Valencia,61,Two year,Mailed check,18.42950819672131,0,0,1,0.004239406755142922,0,0,1367
+Sacramento,72,Two year,Credit card (automatic),24.78472222222222,0,0,0,0.004223866700864159,0,0,1368
+West Hills,62,Two year,Credit card (automatic),18.123387096774195,0,0,0,0.004154724504118259,0,0,1369
+Arbuckle,58,Two year,Credit card (automatic),20.54137931034483,0,0,0,0.0041015164964938195,0,0,1370
+Ripon,64,Two year,Credit card (automatic),19.15078125,0,0,0,0.003923268281483109,0,0,1371
+Sonora,67,Two year,Mailed check,19.928358208955224,0,0,1,0.003860795179148307,0,0,1372
+Lafayette,61,Two year,Credit card (automatic),21.501639344262294,0,0,0,0.0038352601691435733,0,0,1373
+San Quentin,51,Two year,Credit card (automatic),18.978431372549018,0,0,0,0.003755515091096374,0,0,1374
+Richgrove,71,Two year,Mailed check,23.304225352112674,0,0,1,0.0036814081436447863,0,0,1375
+Orick,72,Two year,Bank transfer (automatic),20.78402777777778,0,0,0,0.0034246702090956374,0,0,1376
+El Nido,50,One year,Mailed check,18.779,0,0,1,0.0033480911357434188,0,0,1377
+Santa Margarita,60,Two year,Mailed check,18.216666666666665,0,0,1,0.003279543239994439,0,0,1378
+Big Bar,60,Two year,Bank transfer (automatic),18.801666666666666,0,0,0,0.003219052304404908,0,0,1379
+Frazier Park,35,Two year,Mailed check,18.72285714285714,0,0,1,0.0031128342641610217,0,0,1380
+Orleans,52,One year,Credit card (automatic),20.607692307692307,0,0,0,0.0030786686404077356,0,0,1381
+Beaumont,71,Two year,Credit card (automatic),77.78450704225352,0,0,0,0.003000612143099705,0,0,1382
+Orick,67,Two year,Bank transfer (automatic),21.357462686567164,0,0,0,0.0028618812442059013,0,0,1383
+Cypress,7,Two year,Mailed check,20.592857142857145,0,0,1,0.0028441557290729597,0,0,1384
+Berry Creek,52,Two year,Mailed check,49.11538461538461,0,0,1,0.0027820568256746525,0,0,1385
+Mokelumne Hill,8,Two year,Bank transfer (automatic),19.91875,0,0,0,0.002710909536675772,0,0,1386
+Greenville,29,One year,Mailed check,18.45,0,0,1,0.0026865530602836487,0,0,1387
+Markleeville,43,One year,Mailed check,19.022093023255817,0,0,1,0.0026667547805888916,0,0,1388
+Rancho Santa Fe,39,Two year,Mailed check,25.752564102564104,0,0,1,0.0026281857636666064,0,0,1389
+Arcadia,72,Two year,Credit card (automatic),24.87222222222222,0,0,0,0.002452599905445851,0,0,1390
+Downey,71,Two year,Bank transfer (automatic),19.56830985915493,0,0,0,0.0023256760317313615,0,0,1391
+Tecate,69,Two year,Bank transfer (automatic),89.7695652173913,0,0,0,0.002273700207021395,0,0,1392
+Belvedere Tiburon,69,One year,Credit card (automatic),20.33478260869565,0,0,0,0.0021993391706058335,0,0,1393
+Irvine,70,Two year,Credit card (automatic),19.432142857142857,0,0,0,0.002145784338121096,0,0,1394
+Redwood City,72,Two year,Bank transfer (automatic),20.325694444444444,0,0,0,0.002126699742603315,0,0,1395
+Sonora,72,Two year,Credit card (automatic),90.29652777777778,0,0,0,0.001981429692813411,0,0,1396
+Soledad,61,One year,Mailed check,20.105737704918035,0,0,1,0.0019402395187391593,0,0,1397
+San Juan Capistrano,18,Two year,Mailed check,17.180555555555557,0,0,1,0.0018856362848227405,0,0,1398
+Leggett,67,Two year,Mailed check,25.078358208955223,0,0,1,0.0014255004718577021,0,0,1399
+Hanford,72,Two year,Bank transfer (automatic),71.74583333333334,0,0,0,0.0014169351418592319,0,0,1400
+Brentwood,35,Two year,Bank transfer (automatic),21.695714285714285,0,0,0,0.0013617299537482177,0,0,1401
+Orick,72,Two year,Bank transfer (automatic),23.738194444444446,0,0,0,0.0012731562870986733,0,0,1402
+Madeline,50,Two year,Credit card (automatic),21.405,0,0,0,0.0009760014287942163,0,0,1403
+Spreckels,72,Two year,Bank transfer (automatic),23.737499999999997,0,0,0,0.0009200712144526652,0,0,1404
+O Neals,60,Two year,Mailed check,20.084166666666665,0,0,1,0.0008843351874567966,0,0,1405
+Little River,72,Two year,Credit card (automatic),18.42013888888889,0,0,0,0.0008704229730168988,0,0,1406
+Nipton,68,Two year,Credit card (automatic),64.35000000000001,0,0,0,0.0008573118960676375,0,0,1407
+Alameda,62,Two year,Bank transfer (automatic),20.905645161290323,0,0,0,0.0007684333687592597,0,0,1408
+Three Rivers,72,Two year,Bank transfer (automatic),18.372916666666665,0,0,0,0.0006711829880253229,0,0,1409
